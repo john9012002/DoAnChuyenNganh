@@ -1,0 +1,31 @@
+URL: https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-xa-lo-ha-noi-phuong-thao-dien-prj-masteri-thao-dien/gia-re-n-thi-truong-300tr-tong-p-tai-lh-tieu-hien-pr42826413
+Property ID: 42826413
+Title: Giá rẻ hơn thị trường 300tr tổng hợp căn hộ tại Masteri Thảo Điền. LH: 0903 037 *** Tiểu Hiền
+Image count: 25
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 42826413_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 42826413_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 42826413_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/25/20250425135130-cd70_wm.jpg -> 42826413_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/25/20250425135130-5d00_wm.jpg -> 42826413_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/25/20250425135130-58ff_wm.jpg -> 42826413_6.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/25/20250425135130-d90b_wm.jpg -> 42826413_7.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/25/20250425135130-29f0_wm.jpg -> 42826413_8.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/25/20250425135130-02f2_wm.jpg -> 42826413_9.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/25/20250425135130-37ca_wm.jpg -> 42826413_10.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/25/20250425135130-cd70_wm.jpg -> 42826413_11.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/25/20250425135130-5d00_wm.jpg -> 42826413_12.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/25/20250425135130-58ff_wm.jpg -> 42826413_13.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/25/20250425135130-d90b_wm.jpg -> 42826413_14.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/25/20250425135130-29f0_wm.jpg -> 42826413_15.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/25/20250425135130-02f2_wm.jpg -> 42826413_16.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/25/20250425135130-37ca_wm.jpg -> 42826413_17.jpg
+- https://file4.batdongsan.com.vn/crop/320x320/2021/07/01/20210701145459-63f9.jpg -> 42826413_18.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 42826413_19.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/10/20250410102921-7ef9.jpg -> 42826413_20.jpg
+- https://staticfile.batdongsan.com.vn/images/Personal/ldp-pro-agent-badge.svg -> 42826413_21.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 42826413_22.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 42826413_23.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 42826413_24.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 42826413_25.jpg

@@ -1,0 +1,43 @@
+URL: https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-lo-lu-phuong-truong-thanh-prj-chung-cu-elysian/ro-si-dot-1-du-an-gia-53-trieu-m2-102-toan-theo-tien-do-den-2029-chiet-khau-8-pr43268498
+Property ID: 43268498
+Title: Rổ sỉ đợt 1 dự án Elysian giá 53 triệu/m2 (102%). Thanh toán theo tiến độ đến 2029. Chiết khấu 8%
+Image count: 37
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 43268498_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 43268498_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 43268498_3.jpg
+- https://i1.ytimg.com/vi/IE3Emz927iU/maxresdefault.jpg -> 43268498_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/06/20250606092611-1736_wm.jpg -> 43268498_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/12/20250412083037-1a6a_wm.jpg -> 43268498_6.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/06/20250606092611-5c89_wm.jpg -> 43268498_7.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/06/20250606092611-6eb8_wm.jpg -> 43268498_8.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/06/20250606092611-015e_wm.jpg -> 43268498_9.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/06/20250606092611-bb80_wm.jpg -> 43268498_10.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/06/20250606092611-8cf5_wm.jpg -> 43268498_11.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/06/20250606092611-6218_wm.jpg -> 43268498_12.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/06/20250606092612-0d88_wm.jpg -> 43268498_13.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/06/20250606092611-1180_wm.jpg -> 43268498_14.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/06/20250606092611-caa8_wm.jpg -> 43268498_15.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/06/20250606092611-91db_wm.jpg -> 43268498_16.jpg
+- https://i1.ytimg.com/vi/IE3Emz927iU/default.jpg -> 43268498_17.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/06/20250606092611-1736_wm.jpg -> 43268498_18.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/12/20250412083037-1a6a_wm.jpg -> 43268498_19.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/06/20250606092611-5c89_wm.jpg -> 43268498_20.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/06/20250606092611-6eb8_wm.jpg -> 43268498_21.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/06/20250606092611-015e_wm.jpg -> 43268498_22.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/06/20250606092611-bb80_wm.jpg -> 43268498_23.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/06/20250606092611-8cf5_wm.jpg -> 43268498_24.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/06/20250606092611-6218_wm.jpg -> 43268498_25.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/06/20250606092612-0d88_wm.jpg -> 43268498_26.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/06/20250606092611-1180_wm.jpg -> 43268498_27.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/06/20250606092611-caa8_wm.jpg -> 43268498_28.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/06/20250606092611-91db_wm.jpg -> 43268498_29.jpg
+- https://file4.batdongsan.com.vn/crop/320x320/2019/04/08/zk7ggeWN/20190408165047-c339.jpg -> 43268498_30.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 43268498_31.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/12/03/20241203085103-a325.jpg -> 43268498_32.jpg
+- https://staticfile.batdongsan.com.vn/images/Personal/ldp-pro-agent-badge.svg -> 43268498_33.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 43268498_34.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 43268498_35.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 43268498_36.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 43268498_37.jpg

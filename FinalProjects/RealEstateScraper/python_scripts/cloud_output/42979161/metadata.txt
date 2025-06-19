@@ -1,0 +1,37 @@
+URL: https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-n1-phuong-son-ky-prj-diamond-centery/em-thu-nhan-vien-cdt-chuyen-ro-hang-moi-ban-lai-celadon-city-a-c-biet-gia-va-chon-inbox-em-pr42979161
+Property ID: 42979161
+Title: Em Thư nhân viên CĐT chuyên rổ hàng tất cả các khu Celadon City A/C cần biết giá chọn căn inbox em
+Image count: 31
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 42979161_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 42979161_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 42979161_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2024/06/20/20240620091759-0cfb_wm.jpg -> 42979161_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2024/10/27/20241027122400-0a9b_wm.jpg -> 42979161_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2024/10/27/20241027122400-0ce9_wm.jpg -> 42979161_6.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2024/10/27/20241027122400-c8e9_wm.jpg -> 42979161_7.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2024/10/27/20241027122400-075c_wm.jpg -> 42979161_8.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2024/10/27/20241027122400-71d3_wm.jpg -> 42979161_9.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2024/10/27/20241027122400-0fab_wm.jpg -> 42979161_10.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2024/10/27/20241027122401-0996_wm.jpg -> 42979161_11.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2024/10/27/20241027122401-145a_wm.jpg -> 42979161_12.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2024/10/27/20241027122401-94af_wm.jpg -> 42979161_13.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/06/20/20240620091759-0cfb_wm.jpg -> 42979161_14.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/10/27/20241027122400-0a9b_wm.jpg -> 42979161_15.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/10/27/20241027122400-0ce9_wm.jpg -> 42979161_16.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/10/27/20241027122400-c8e9_wm.jpg -> 42979161_17.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/10/27/20241027122400-075c_wm.jpg -> 42979161_18.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/10/27/20241027122400-71d3_wm.jpg -> 42979161_19.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/10/27/20241027122400-0fab_wm.jpg -> 42979161_20.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/10/27/20241027122401-0996_wm.jpg -> 42979161_21.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/10/27/20241027122401-145a_wm.jpg -> 42979161_22.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/10/27/20241027122401-94af_wm.jpg -> 42979161_23.jpg
+- https://file4.batdongsan.com.vn/crop/320x320/2024/06/20/20240620091944-8d65_wm.jpg -> 42979161_24.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 42979161_25.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2023/11/05/20231105123203-3309.jpg -> 42979161_26.jpg
+- https://staticfile.batdongsan.com.vn/images/Personal/ldp-pro-agent-badge.svg -> 42979161_27.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 42979161_28.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 42979161_29.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 42979161_30.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 42979161_31.jpg

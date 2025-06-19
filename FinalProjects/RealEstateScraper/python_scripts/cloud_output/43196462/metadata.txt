@@ -1,0 +1,29 @@
+URL: https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-so-6-phuong-hiep-binh-phuoc-prj-urban-green/-chinh-chu-ban-3-phong-ngu-co-ban-cong-trong-cay-tung-phong-thoang-dang-tien-ich-pr43196462
+Property ID: 43196462
+Title: Urban Green, chính chủ bán căn 3 phòng ngủ, có ban công trồng cây từng phòng. Thoáng đãng, tiện ích
+Image count: 23
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 43196462_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 43196462_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 43196462_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/07/20250607154728-3ab8_wm.jpg -> 43196462_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/07/20250607154735-f934_wm.jpg -> 43196462_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/07/20250607154745-f6e7_wm.jpg -> 43196462_6.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/07/20250607154751-12de_wm.jpg -> 43196462_7.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/07/20250607154758-5d91_wm.jpg -> 43196462_8.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/07/20250607154808-c550_wm.jpg -> 43196462_9.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/07/20250607154814-51d5_wm.jpg -> 43196462_10.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/07/20250607154728-3ab8_wm.jpg -> 43196462_11.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/07/20250607154735-f934_wm.jpg -> 43196462_12.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/07/20250607154745-f6e7_wm.jpg -> 43196462_13.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/07/20250607154751-12de_wm.jpg -> 43196462_14.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/07/20250607154758-5d91_wm.jpg -> 43196462_15.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/07/20250607154808-c550_wm.jpg -> 43196462_16.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/07/20250607154814-51d5_wm.jpg -> 43196462_17.jpg
+- https://file4.batdongsan.com.vn/crop/320x320/2021/11/22/20211122162851-34cf.jpg -> 43196462_18.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 43196462_19.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 43196462_20.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 43196462_21.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 43196462_22.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 43196462_23.jpg

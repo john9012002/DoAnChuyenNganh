@@ -1,0 +1,22 @@
+URL: https://batdongsan.com.vn/ban-dat-duong-so-27-phuong-hiep-binh-chanh/ban-biet-thu-200m2-khu-ben-song-thu-duc-gia-re-pr43021501
+Property ID: 43021501
+Title: Bán đất biệt thự 200m2, khu bên sông, Hiệp Bình Chánh, Thủ Đức giá rẻ
+Image count: 16
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 43021501_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 43021501_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 43021501_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/20/20250520094712-75d5_wm.jpg -> 43021501_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/20/20250520094712-5eef_wm.jpg -> 43021501_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/20/20250520094730-367c_wm.jpg -> 43021501_6.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/20/20250520094712-75d5_wm.jpg -> 43021501_7.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/20/20250520094712-5eef_wm.jpg -> 43021501_8.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/20/20250520094730-367c_wm.jpg -> 43021501_9.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 43021501_10.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/06/18/20240618143012-9ae9.jpg -> 43021501_11.jpg
+- https://staticfile.batdongsan.com.vn/images/Personal/ldp-pro-agent-badge.svg -> 43021501_12.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 43021501_13.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 43021501_14.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 43021501_15.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 43021501_16.jpg

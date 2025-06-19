@@ -1,0 +1,28 @@
+URL: https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-duong-tu-xuong-phuong-vo-thi-sau/-tai-quan-3-ho-chi-minh-gia-cuc-chat-92-ty-125-m2-pr43219813
+Property ID: 43219813
+Title: Nhà riêng tại đường Tú Xương, Quận 3, Hồ Chí Minh, 7mx20m giá cực chất 92 tỷ, 119,3m2
+Image count: 22
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 43219813_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 43219813_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 43219813_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/10/20250610142910-11bc_wm.jpg -> 43219813_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/10/20250610142910-1375_wm.jpg -> 43219813_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/10/20250610142910-85db_wm.jpg -> 43219813_6.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/10/20250610142910-5ab2_wm.jpg -> 43219813_7.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/10/20250610142910-bbab_wm.jpg -> 43219813_8.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/10/20250610143006-c866_wm.jpg -> 43219813_9.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/10/20250610142910-11bc_wm.jpg -> 43219813_10.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/10/20250610142910-1375_wm.jpg -> 43219813_11.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/10/20250610142910-85db_wm.jpg -> 43219813_12.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/10/20250610142910-5ab2_wm.jpg -> 43219813_13.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/10/20250610142910-bbab_wm.jpg -> 43219813_14.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/10/20250610143006-c866_wm.jpg -> 43219813_15.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 43219813_16.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/28/20250428095828-483e.jpg -> 43219813_17.jpg
+- https://staticfile.batdongsan.com.vn/images/Personal/ldp-pro-agent-badge.svg -> 43219813_18.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 43219813_19.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 43219813_20.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 43219813_21.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 43219813_22.jpg

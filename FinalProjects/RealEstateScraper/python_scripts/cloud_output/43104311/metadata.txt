@@ -1,0 +1,31 @@
+URL: https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-nguyen-van-linh-phuong-tan-thuan-tay-1-prj-eco-green-sai-gon/ban-nhanh-goc-2pn2wc-64m2-ban-cong-view-quan-1-tai-gia-chi-4-905-ty-pr43104311
+Property ID: 43104311
+Title: Bán nhanh căn góc 2PN 2WC 64m2 ban công view Quận 1 tại Eco Green Sài Gòn, giá chỉ 4,905 tỷ
+Image count: 25
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 43104311_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 43104311_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 43104311_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/28/20250528162656-b479_wm.jpg -> 43104311_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/28/20250528162656-ddeb_wm.jpg -> 43104311_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/28/20250528162656-26be_wm.jpg -> 43104311_6.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/28/20250528162656-d884_wm.jpg -> 43104311_7.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/28/20250528162656-509d_wm.jpg -> 43104311_8.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/28/20250528162656-dfbe_wm.jpg -> 43104311_9.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/28/20250528162656-6dfa_wm.jpg -> 43104311_10.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/28/20250528162656-b479_wm.jpg -> 43104311_11.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/28/20250528162656-ddeb_wm.jpg -> 43104311_12.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/28/20250528162656-26be_wm.jpg -> 43104311_13.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/28/20250528162656-d884_wm.jpg -> 43104311_14.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/28/20250528162656-509d_wm.jpg -> 43104311_15.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/28/20250528162656-dfbe_wm.jpg -> 43104311_16.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/28/20250528162656-6dfa_wm.jpg -> 43104311_17.jpg
+- https://file4.batdongsan.com.vn/crop/320x320/2021/05/07/20210507163821-b814.jpg -> 43104311_18.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 43104311_19.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/02/13/20250213173658-4839.jpg -> 43104311_20.jpg
+- https://staticfile.batdongsan.com.vn/images/Personal/ldp-pro-agent-badge.svg -> 43104311_21.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 43104311_22.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 43104311_23.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 43104311_24.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 43104311_25.jpg

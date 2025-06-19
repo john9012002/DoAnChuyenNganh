@@ -1,0 +1,33 @@
+URL: https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-dien-bien-phu-phuong-22-prj-vinhomes-central-park/ban-vinmes-landmark-81-gia-tot-nhat-1-2-3-4-pn-penuse-lh-pr38753950
+Property ID: 38753950
+Title: Bán căn hộ Vinhomes Central Park giá tốt nhất (1-2-3-4 PN đầy đủ các loại diện tích). LH 0901 692 ***
+Image count: 27
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 38753950_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 38753950_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 38753950_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2023/12/12/20231212100935-cc7a_wm.jpg -> 38753950_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2023/12/12/20231212100843-b4e8_wm.jpg -> 38753950_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2023/12/12/20231212100928-2cfa_wm.jpg -> 38753950_6.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2023/12/12/20231212100921-ac97_wm.jpg -> 38753950_7.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2023/12/12/20231212100850-afe9_wm.jpg -> 38753950_8.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2023/12/12/20231212100858-bc7d_wm.jpg -> 38753950_9.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2023/12/12/20231212100913-9442_wm.jpg -> 38753950_10.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2023/12/12/20231212100906-e9e1_wm.jpg -> 38753950_11.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2023/12/12/20231212100935-cc7a_wm.jpg -> 38753950_12.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2023/12/12/20231212100843-b4e8_wm.jpg -> 38753950_13.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2023/12/12/20231212100928-2cfa_wm.jpg -> 38753950_14.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2023/12/12/20231212100921-ac97_wm.jpg -> 38753950_15.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2023/12/12/20231212100850-afe9_wm.jpg -> 38753950_16.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2023/12/12/20231212100858-bc7d_wm.jpg -> 38753950_17.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2023/12/12/20231212100913-9442_wm.jpg -> 38753950_18.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2023/12/12/20231212100906-e9e1_wm.jpg -> 38753950_19.jpg
+- https://file4.batdongsan.com.vn/crop/320x320/2024/08/02/20240802004815-e780_wm.jpg -> 38753950_20.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 38753950_21.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/04/25/20240425172824-01bd.jpg -> 38753950_22.jpg
+- https://staticfile.batdongsan.com.vn/images/Personal/ldp-pro-agent-badge.svg -> 38753950_23.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 38753950_24.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 38753950_25.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 38753950_26.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 38753950_27.jpg

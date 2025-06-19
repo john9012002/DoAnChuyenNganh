@@ -1,0 +1,24 @@
+URL: https://batdongsan.com.vn/ban-nha-mat-pho-duong-so-2-phuong-truong-tho-2/ban-tien-kinh-doanh-2-thon-thu-duc-20m-gia-chi-7-5-ty-pr43016678
+Property ID: 43016678
+Title: Bán nhà mặt tiền kinh doanh đường số 2, Trường Thọ, Thủ Đức, đường 20m, giá chỉ 7,5 tỷ
+Image count: 18
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 43016678_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 43016678_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 43016678_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/19/20250519150023-93da_wm.jpg -> 43016678_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/19/20250519150024-5dce_wm.jpg -> 43016678_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/19/20250519150023-f9f4_wm.jpg -> 43016678_6.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/19/20250519161655-c287_wm.jpg -> 43016678_7.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/19/20250519150023-93da_wm.jpg -> 43016678_8.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/19/20250519150024-5dce_wm.jpg -> 43016678_9.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/19/20250519150023-f9f4_wm.jpg -> 43016678_10.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/19/20250519161655-c287_wm.jpg -> 43016678_11.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 43016678_12.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/06/18/20240618143012-9ae9.jpg -> 43016678_13.jpg
+- https://staticfile.batdongsan.com.vn/images/Personal/ldp-pro-agent-badge.svg -> 43016678_14.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 43016678_15.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 43016678_16.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 43016678_17.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 43016678_18.jpg

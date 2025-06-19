@@ -1,0 +1,24 @@
+URL: https://batdongsan.com.vn/ban-dat-duong-binh-chieu-phuong-binh-chieu/chinh-chu-ket-tien-can-ban-gap-gia-re-11-5-ty-191m2-p-tp-thu-duc-pr43282252
+Property ID: 43282252
+Title: Chính chủ bán lô đất đẹp 191m2 trung tâm P. Bình Chiểu có Vị trí đắc địa, tiềm năng tăng giá cao
+Image count: 18
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 43282252_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 43282252_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 43282252_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/17/20250617115343-4799_wm.jpg -> 43282252_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/17/20250617115706-9d26_wm.jpg -> 43282252_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/17/20250617115720-340b_wm.jpg -> 43282252_6.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/17/20250617115727-c973_wm.jpg -> 43282252_7.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/17/20250617115741-1210_wm.jpg -> 43282252_8.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/17/20250617115343-4799_wm.jpg -> 43282252_9.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/17/20250617115706-9d26_wm.jpg -> 43282252_10.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/17/20250617115720-340b_wm.jpg -> 43282252_11.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/17/20250617115727-c973_wm.jpg -> 43282252_12.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/17/20250617115741-1210_wm.jpg -> 43282252_13.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 43282252_14.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 43282252_15.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 43282252_16.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 43282252_17.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 43282252_18.jpg

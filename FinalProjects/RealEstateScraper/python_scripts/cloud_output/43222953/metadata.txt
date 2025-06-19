@@ -1,0 +1,23 @@
+URL: https://batdongsan.com.vn/ban-dat-duong-quoc-lo-22-xa-xuan-thoi-dong/chinh-chu-ban-khuon-vien-2585-m2-hai-mat-tien-truoc-sau-gia-thuong-luong-pr43222953
+Property ID: 43222953
+Title: CC bán đất 2585 m2, 2 mặt tiền trước sau, có khách muốn thuê dài hạn 150 tr/tháng, giá: 25 tr/m2
+Image count: 17
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 43222953_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 43222953_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 43222953_3.jpg
+- https://i1.ytimg.com/vi/r0i9EfqE2ss/maxresdefault.jpg -> 43222953_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/10/20250610190055-3050_wm.jpg -> 43222953_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/10/20250610190102-5604_wm.jpg -> 43222953_6.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/10/20250610191901-fe2e_wm.jpg -> 43222953_7.jpg
+- https://i1.ytimg.com/vi/r0i9EfqE2ss/default.jpg -> 43222953_8.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/10/20250610190055-3050_wm.jpg -> 43222953_9.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/10/20250610190102-5604_wm.jpg -> 43222953_10.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/10/20250610191901-fe2e_wm.jpg -> 43222953_11.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 43222953_12.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2022/11/15/20221115172639-04a8.jpg -> 43222953_13.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 43222953_14.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 43222953_15.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 43222953_16.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 43222953_17.jpg

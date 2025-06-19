@@ -1,0 +1,36 @@
+URL: https://batdongsan.com.vn/ban-can-ho-chung-cu-phuong-long-thanh-my-prj-vinhomes-grand-park/dat-coc-100tr-toan-truoc-20-so-huu-ngay-cao-cap-2pn-the-beverly-vinmes-park-pr43051010
+Property ID: 43051010
+Title: Đặt Cọc 100Tr thânh Toán Trước 20% Sở Hữu Ngay Căn Hộ Cao Cấp 2PN The Beverly -Vinhomes Grand Park
+Image count: 30
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 43051010_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 43051010_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 43051010_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/22/20250522172610-a005_wm.jpg -> 43051010_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/22/20250522172609-07cc_wm.jpg -> 43051010_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/22/20250522172631-6b98_wm.jpg -> 43051010_6.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/22/20250522172715-1370_wm.jpg -> 43051010_7.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/22/20250522172715-635c_wm.jpg -> 43051010_8.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/22/20250522172715-bfdb_wm.jpg -> 43051010_9.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/22/20250522172715-2e8c_wm.jpg -> 43051010_10.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/22/20250522172715-6725_wm.jpg -> 43051010_11.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/22/20250522172715-01a4_wm.jpg -> 43051010_12.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/22/20250522172715-c208_wm.jpg -> 43051010_13.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/22/20250522172610-a005_wm.jpg -> 43051010_14.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/22/20250522172609-07cc_wm.jpg -> 43051010_15.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/22/20250522172631-6b98_wm.jpg -> 43051010_16.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/22/20250522172715-1370_wm.jpg -> 43051010_17.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/22/20250522172715-635c_wm.jpg -> 43051010_18.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/22/20250522172715-bfdb_wm.jpg -> 43051010_19.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/22/20250522172715-2e8c_wm.jpg -> 43051010_20.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/22/20250522172715-6725_wm.jpg -> 43051010_21.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/22/20250522172715-01a4_wm.jpg -> 43051010_22.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/22/20250522172715-c208_wm.jpg -> 43051010_23.jpg
+- https://file4.batdongsan.com.vn/crop/320x320/2019/06/11/zk7ggeWN/20190611144051-4fa3.jpg -> 43051010_24.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 43051010_25.jpg
+- https://file4.batdongsan.com.vn/resize/255x180/2025/04/18/20250418143901-f0a4.jpg -> 43051010_26.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 43051010_27.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 43051010_28.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 43051010_29.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 43051010_30.jpg

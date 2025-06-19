@@ -1,0 +1,37 @@
+URL: https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-dien-bien-phu-phuong-22-prj-vinhomes-central-park/nam-100-gio-hang-gia-tot-nhat-1pn-5ty-2pn-7-2ty-3pn-11-ty-4pn-17-ty-pr43257714
+Property ID: 43257714
+Title: Nắm 100% giỏ hàng Vinhomes Central Park giá tốt nhất 1PN=5tỷ, 2PN=7.2tỷ, 3PN=11 tỷ, 4PN=17 tỷ
+Image count: 31
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 43257714_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 43257714_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 43257714_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2024/04/13/20240413092321-69a0_wm.jpg -> 43257714_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2024/04/13/20240413092321-9390_wm.jpg -> 43257714_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2024/04/13/20240413092319-c2a7_wm.jpg -> 43257714_6.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2024/04/13/20240413092321-4b56_wm.jpg -> 43257714_7.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2024/04/13/20240413092320-0425_wm.jpg -> 43257714_8.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2024/04/13/20240413092320-6543_wm.jpg -> 43257714_9.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2024/04/13/20240413092320-f359_wm.jpg -> 43257714_10.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2024/04/13/20240413092320-1c86_wm.jpg -> 43257714_11.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2024/04/13/20240413092320-b651_wm.jpg -> 43257714_12.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2024/04/13/20240413092321-6fd6_wm.jpg -> 43257714_13.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/04/13/20240413092321-69a0_wm.jpg -> 43257714_14.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/04/13/20240413092321-9390_wm.jpg -> 43257714_15.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/04/13/20240413092319-c2a7_wm.jpg -> 43257714_16.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/04/13/20240413092321-4b56_wm.jpg -> 43257714_17.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/04/13/20240413092320-0425_wm.jpg -> 43257714_18.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/04/13/20240413092320-6543_wm.jpg -> 43257714_19.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/04/13/20240413092320-f359_wm.jpg -> 43257714_20.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/04/13/20240413092320-1c86_wm.jpg -> 43257714_21.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/04/13/20240413092320-b651_wm.jpg -> 43257714_22.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/04/13/20240413092321-6fd6_wm.jpg -> 43257714_23.jpg
+- https://file4.batdongsan.com.vn/crop/320x320/2024/08/02/20240802004815-e780_wm.jpg -> 43257714_24.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 43257714_25.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2023/05/30/20230530113949-24e8.jpg -> 43257714_26.jpg
+- https://staticfile.batdongsan.com.vn/images/Personal/ldp-pro-agent-badge.svg -> 43257714_27.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 43257714_28.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 43257714_29.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 43257714_30.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 43257714_31.jpg

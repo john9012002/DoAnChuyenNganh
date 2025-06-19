@@ -1,0 +1,45 @@
+URL: https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-phuoc-long-b-prj-the-garland/-song-lap-full-noi-that-cao-cap-khu-quan-9-pr43298969
+Property ID: 43298969
+Title: Biệt thự song lập Full nội thất cao cấp, khu Garland, Quận 9
+Image count: 39
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 43298969_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 43298969_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 43298969_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/19/20250619001136-9044_wm.jpg -> 43298969_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/19/20250619001135-31ac_wm.jpg -> 43298969_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/19/20250619001135-876b_wm.jpg -> 43298969_6.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/19/20250619001136-fd6c_wm.jpg -> 43298969_7.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/19/20250619001136-433b_wm.jpg -> 43298969_8.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/19/20250619001136-d20f_wm.jpg -> 43298969_9.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/19/20250619001136-bbda_wm.jpg -> 43298969_10.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/19/20250619001135-5648_wm.jpg -> 43298969_11.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/19/20250619001136-1eed_wm.jpg -> 43298969_12.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/19/20250619001135-24a3_wm.jpg -> 43298969_13.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/19/20250619001135-0e77_wm.jpg -> 43298969_14.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/19/20250619001135-0949_wm.jpg -> 43298969_15.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/19/20250619001135-9409_wm.jpg -> 43298969_16.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/19/20250619001135-ffa8_wm.jpg -> 43298969_17.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/19/20250619001135-5687_wm.jpg -> 43298969_18.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/19/20250619001136-ba61_wm.jpg -> 43298969_19.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/19/20250619001136-9044_wm.jpg -> 43298969_20.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/19/20250619001135-31ac_wm.jpg -> 43298969_21.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/19/20250619001135-876b_wm.jpg -> 43298969_22.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/19/20250619001136-fd6c_wm.jpg -> 43298969_23.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/19/20250619001136-433b_wm.jpg -> 43298969_24.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/19/20250619001136-d20f_wm.jpg -> 43298969_25.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/19/20250619001136-bbda_wm.jpg -> 43298969_26.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/19/20250619001135-5648_wm.jpg -> 43298969_27.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/19/20250619001136-1eed_wm.jpg -> 43298969_28.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/19/20250619001135-24a3_wm.jpg -> 43298969_29.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/19/20250619001135-0e77_wm.jpg -> 43298969_30.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/19/20250619001135-0949_wm.jpg -> 43298969_31.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/19/20250619001135-9409_wm.jpg -> 43298969_32.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/19/20250619001135-ffa8_wm.jpg -> 43298969_33.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/19/20250619001135-5687_wm.jpg -> 43298969_34.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/19/20250619001136-ba61_wm.jpg -> 43298969_35.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 43298969_37.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 43298969_38.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 43298969_39.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 43298969_40.jpg

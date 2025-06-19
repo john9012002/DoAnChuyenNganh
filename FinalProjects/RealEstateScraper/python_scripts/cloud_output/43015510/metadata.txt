@@ -1,0 +1,41 @@
+URL: https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-so-6-phuong-hiep-binh-phuoc-prj-urban-green/bang-hang-gia-tot-nhat-thi-truong-ng-view-dep-o-ngay-ac-dau-tu-pr43015510
+Property ID: 43015510
+Title: Bảng hàng căn hộ Urban Green giá tốt nhất thị trường view đẹp ở ngay hoặc đầu tư! Từ 3.7 tỷ
+Image count: 35
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 43015510_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 43015510_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 43015510_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/19/20250519135436-e18d_wm.jpg -> 43015510_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/19/20250519135437-6f18_wm.jpg -> 43015510_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/19/20250519135436-59a6_wm.jpg -> 43015510_6.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/19/20250519135437-57a9_wm.jpg -> 43015510_7.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/19/20250519135437-6da5_wm.jpg -> 43015510_8.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/19/20250519135437-1376_wm.jpg -> 43015510_9.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/19/20250519135437-554c_wm.jpg -> 43015510_10.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/19/20250519135437-6bf5_wm.jpg -> 43015510_11.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/19/20250519135437-b604_wm.jpg -> 43015510_12.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/19/20250519135438-ad48_wm.jpg -> 43015510_13.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/19/20250519135438-3100_wm.jpg -> 43015510_14.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/19/20250519135438-5cf9_wm.jpg -> 43015510_15.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/19/20250519135436-e18d_wm.jpg -> 43015510_16.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/19/20250519135437-6f18_wm.jpg -> 43015510_17.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/19/20250519135436-59a6_wm.jpg -> 43015510_18.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/19/20250519135437-57a9_wm.jpg -> 43015510_19.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/19/20250519135437-6da5_wm.jpg -> 43015510_20.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/19/20250519135437-1376_wm.jpg -> 43015510_21.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/19/20250519135437-554c_wm.jpg -> 43015510_22.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/19/20250519135437-6bf5_wm.jpg -> 43015510_23.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/19/20250519135437-b604_wm.jpg -> 43015510_24.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/19/20250519135438-ad48_wm.jpg -> 43015510_25.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/19/20250519135438-3100_wm.jpg -> 43015510_26.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/19/20250519135438-5cf9_wm.jpg -> 43015510_27.jpg
+- https://file4.batdongsan.com.vn/crop/320x320/2021/11/22/20211122162851-34cf.jpg -> 43015510_28.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 43015510_29.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/31/20250531094422-4dee.jpg -> 43015510_30.jpg
+- https://staticfile.batdongsan.com.vn/images/Personal/ldp-pro-agent-badge.svg -> 43015510_31.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 43015510_32.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 43015510_33.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 43015510_34.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 43015510_35.jpg

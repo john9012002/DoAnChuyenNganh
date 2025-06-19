@@ -1,0 +1,3 @@
+2025-06-19 00:18:51,887 - INFO - Starting CloudScraper-based property image scraper
+2025-06-19 00:18:51,890 - INFO - Images will be saved to: D:\FinalProjects\RealEstate\python_scripts\cloud_output
+2025-06-19 00:18:51,892 - ERROR - Failed to read CSV file: [Errno 2] No such file or directory: 'data_bds.csv'

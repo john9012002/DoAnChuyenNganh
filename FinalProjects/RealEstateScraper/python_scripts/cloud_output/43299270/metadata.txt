@@ -1,0 +1,30 @@
+URL: https://batdongsan.com.vn/ban-nha-mat-pho-duong-le-thi-ha-xa-tan-xuan-5/2667m2-2-tien-30x80m-gia-93-ty-hdt-280tr-tng-pr43299270
+Property ID: 43299270
+Title: 2667m2 2 Mặt Tiền Lê Thị Hà, 30x80m giá 93 tỷ, HĐT 280tr/tháng
+Image count: 24
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 43299270_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 43299270_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 43299270_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/19/20250619065448-9153_wm.jpg -> 43299270_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/19/20250619065450-b1b4_wm.jpg -> 43299270_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/19/20250619065452-78f5_wm.jpg -> 43299270_6.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/19/20250619065455-c52a_wm.jpg -> 43299270_7.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/19/20250619065457-4219_wm.jpg -> 43299270_8.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/19/20250619065458-a9f7_wm.jpg -> 43299270_9.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/19/20250619065511-3f15_wm.jpg -> 43299270_10.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/19/20250619065514-408b_wm.jpg -> 43299270_11.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/19/20250619065448-9153_wm.jpg -> 43299270_12.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/19/20250619065450-b1b4_wm.jpg -> 43299270_13.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/19/20250619065452-78f5_wm.jpg -> 43299270_14.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/19/20250619065455-c52a_wm.jpg -> 43299270_15.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/19/20250619065457-4219_wm.jpg -> 43299270_16.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/19/20250619065458-a9f7_wm.jpg -> 43299270_17.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/19/20250619065511-3f15_wm.jpg -> 43299270_18.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/19/20250619065514-408b_wm.jpg -> 43299270_19.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 43299270_20.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 43299270_21.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 43299270_22.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 43299270_23.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 43299270_24.jpg

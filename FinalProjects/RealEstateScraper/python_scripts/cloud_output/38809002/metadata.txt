@@ -1,0 +1,37 @@
+URL: https://batdongsan.com.vn/ban-can-ho-chung-cu-phuong-long-thanh-my-prj-vinhomes-grand-park/chu-nha-gui-ban-lo-3pn-vinmes-gia-chi-2-7-ty-con-thuong-luong-pr38809002
+Property ID: 38809002
+Title: Chủ nhà gửi bán gấp căn hộ góc 3PN Vinhomes Grand Park giá chỉ 2,85 tỷ
+Image count: 31
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 38809002_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 38809002_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 38809002_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2023/11/29/20231129124245-8c56_wm.jpg -> 38809002_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2023/11/29/20231129124245-7d2e_wm.jpg -> 38809002_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2023/11/29/20231129124245-0953_wm.jpg -> 38809002_6.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2023/11/29/20231129124245-4533_wm.jpg -> 38809002_7.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2023/11/29/20231129124245-a1d8_wm.jpg -> 38809002_8.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2023/11/29/20231129124427-9147_wm.jpg -> 38809002_9.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2023/11/29/20231129124245-baaa_wm.jpg -> 38809002_10.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2023/11/29/20231129124502-5804_wm.jpg -> 38809002_11.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2023/11/29/20231129124245-8f56_wm.jpg -> 38809002_12.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2023/11/29/20231129124245-961f_wm.jpg -> 38809002_13.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2023/11/29/20231129124245-b199_wm.jpg -> 38809002_14.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2023/11/29/20231129124245-8c56_wm.jpg -> 38809002_15.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2023/11/29/20231129124245-7d2e_wm.jpg -> 38809002_16.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2023/11/29/20231129124245-0953_wm.jpg -> 38809002_17.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2023/11/29/20231129124245-4533_wm.jpg -> 38809002_18.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2023/11/29/20231129124245-a1d8_wm.jpg -> 38809002_19.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2023/11/29/20231129124427-9147_wm.jpg -> 38809002_20.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2023/11/29/20231129124245-baaa_wm.jpg -> 38809002_21.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2023/11/29/20231129124502-5804_wm.jpg -> 38809002_22.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2023/11/29/20231129124245-8f56_wm.jpg -> 38809002_23.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2023/11/29/20231129124245-961f_wm.jpg -> 38809002_24.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2023/11/29/20231129124245-b199_wm.jpg -> 38809002_25.jpg
+- https://file4.batdongsan.com.vn/crop/320x320/2019/06/11/zk7ggeWN/20190611144051-4fa3.jpg -> 38809002_26.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 38809002_27.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 38809002_28.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 38809002_29.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 38809002_30.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 38809002_31.jpg

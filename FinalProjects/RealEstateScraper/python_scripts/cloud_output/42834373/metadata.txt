@@ -1,0 +1,22 @@
+URL: https://batdongsan.com.vn/ban-nha-rieng-duong-trinh-dinh-trong-phuong-phu-trung/ban-van-phong-cong-ty-86-58-quan-tan-pr42834373
+Property ID: 42834373
+Title: BÁN NHÀ - VĂN PHÒNG HẺM XE HƠI LÔ GÓC ĐẸP DIỆN TÍCH KHỦNG TRỊNH ĐÌNH TRỌNG TÂN PHÚ
+Image count: 16
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 42834373_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 42834373_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 42834373_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/26/20250426113536-fd15_wm.jpg -> 42834373_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/26/20250426111915-341f_wm.jpg -> 42834373_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/26/20250426111913-4b95_wm.jpg -> 42834373_6.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/26/20250426111913-8e58_wm.jpg -> 42834373_7.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/26/20250426113536-fd15_wm.jpg -> 42834373_8.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/26/20250426111915-341f_wm.jpg -> 42834373_9.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/26/20250426111913-4b95_wm.jpg -> 42834373_10.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/26/20250426111913-8e58_wm.jpg -> 42834373_11.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 42834373_12.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 42834373_13.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 42834373_14.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 42834373_15.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 42834373_16.jpg

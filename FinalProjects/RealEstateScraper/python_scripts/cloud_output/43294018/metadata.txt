@@ -1,0 +1,37 @@
+URL: https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-huynh-ba-chanh-xa-tan-kien-prj-conic-boulevard/-da-an-thien-85-98m2-2pn-gia-chi-dung-28-5-trieu-m2-ngan-hang-c-vay-85-pr43294018
+Property ID: 43294018
+Title: Căn hộ Conic Boulevard đã hoàn thiện 85,98m2/2pn giá chỉ đúng 28,5 triệu/m2, ngân hàng cho vay 85%
+Image count: 31
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 43294018_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 43294018_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 43294018_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/18/20250618141008-9247_wm.jpg -> 43294018_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/18/20250618141033-6d1b_wm.jpg -> 43294018_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/18/20250618141302-23ab_wm.jpg -> 43294018_6.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/18/20250618141323-f31b_wm.jpg -> 43294018_7.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/18/20250618141242-75fa_wm.jpg -> 43294018_8.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/18/20250618141416-c317_wm.jpg -> 43294018_9.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/18/20250618141527-a555_wm.jpg -> 43294018_10.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/18/20250618141549-0e3b_wm.jpg -> 43294018_11.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/18/20250618141625-2dbd_wm.jpg -> 43294018_12.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/18/20250618141706-2f3b_wm.jpg -> 43294018_13.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/18/20250618141008-9247_wm.jpg -> 43294018_14.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/18/20250618141033-6d1b_wm.jpg -> 43294018_15.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/18/20250618141302-23ab_wm.jpg -> 43294018_16.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/18/20250618141323-f31b_wm.jpg -> 43294018_17.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/18/20250618141242-75fa_wm.jpg -> 43294018_18.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/18/20250618141416-c317_wm.jpg -> 43294018_19.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/18/20250618141527-a555_wm.jpg -> 43294018_20.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/18/20250618141549-0e3b_wm.jpg -> 43294018_21.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/18/20250618141625-2dbd_wm.jpg -> 43294018_22.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/18/20250618141706-2f3b_wm.jpg -> 43294018_23.jpg
+- https://file4.batdongsan.com.vn/crop/320x320/2023/07/04/20230704154206-9306_wm.jpg -> 43294018_24.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 43294018_25.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/03/21/20250321154807-2d60.jpg -> 43294018_26.jpg
+- https://staticfile.batdongsan.com.vn/images/Personal/ldp-pro-agent-badge.svg -> 43294018_27.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 43294018_28.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 43294018_29.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 43294018_30.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 43294018_31.jpg

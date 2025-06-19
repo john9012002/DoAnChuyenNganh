@@ -1,0 +1,21 @@
+URL: https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-dien-bien-phu-phuong-22-prj-vinhomes-central-park/-ban-4pn-tai-vinmes-quan-binh-thanh-tp-hcm-pr43271474
+Property ID: 43271474
+Title: Cần bán căn hộ 4PN tại Vinhomes Central Park Quận Bình Thạnh, TP. HCM
+Image count: 15
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 43271474_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 43271474_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 43271474_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/16/20250616111041-e8f6_wm.jpg -> 43271474_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/16/20250616111041-f983_wm.jpg -> 43271474_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/16/20250616111042-0b60_wm.jpg -> 43271474_6.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/16/20250616111041-e8f6_wm.jpg -> 43271474_7.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/16/20250616111041-f983_wm.jpg -> 43271474_8.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/16/20250616111042-0b60_wm.jpg -> 43271474_9.jpg
+- https://file4.batdongsan.com.vn/crop/320x320/2024/08/02/20240802004815-e780_wm.jpg -> 43271474_10.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 43271474_11.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 43271474_12.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 43271474_13.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 43271474_14.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 43271474_15.jpg

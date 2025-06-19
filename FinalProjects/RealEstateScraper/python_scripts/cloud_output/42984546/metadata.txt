@@ -1,0 +1,30 @@
+URL: https://batdongsan.com.vn/ban-nha-biet-thu-lien-ke-phuong-long-thanh-my-prj-vinhomes-grand-park/tong-hop-99-can-tot-gio-hang-chuyen-nhuong-thang-5-2025-pr42984546
+Property ID: 42984546
+Title: Tổng hợp 99% căn tốt nhất chuyển nhượng nhà phố - biệt thự Vinhomes Grand Park tháng 6/2025
+Image count: 24
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 42984546_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 42984546_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 42984546_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/15/20250515164606-9edc_wm.jpg -> 42984546_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/15/20250515164604-7cd7_wm.jpg -> 42984546_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/15/20250515164607-b181_wm.jpg -> 42984546_6.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/15/20250515164607-cb9c_wm.jpg -> 42984546_7.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/15/20250515164607-b050_wm.jpg -> 42984546_8.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/15/20250515164610-2fa9_wm.jpg -> 42984546_9.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/15/20250515164610-b6db_wm.jpg -> 42984546_10.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/15/20250515164606-9edc_wm.jpg -> 42984546_11.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/15/20250515164604-7cd7_wm.jpg -> 42984546_12.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/15/20250515164607-b181_wm.jpg -> 42984546_13.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/15/20250515164607-cb9c_wm.jpg -> 42984546_14.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/15/20250515164607-b050_wm.jpg -> 42984546_15.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/15/20250515164610-2fa9_wm.jpg -> 42984546_16.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/15/20250515164610-b6db_wm.jpg -> 42984546_17.jpg
+- https://file4.batdongsan.com.vn/crop/320x320/2019/06/11/zk7ggeWN/20190611144051-4fa3.jpg -> 42984546_18.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 42984546_19.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/02/20250602133140-2257.jpg -> 42984546_20.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 42984546_21.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 42984546_22.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 42984546_23.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 42984546_24.jpg

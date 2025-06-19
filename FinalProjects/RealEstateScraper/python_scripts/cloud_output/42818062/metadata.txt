@@ -1,0 +1,33 @@
+URL: https://batdongsan.com.vn/ban-can-ho-chung-cu-phuong-long-binh-3-prj-the-beverly-solari-vinhomes-grand-park/ban-gap-3pn-vinmes-q9-view-song-tang-mat-gia-2-7-ty-pr42818062
+Property ID: 42818062
+Title: Bán gấp căn hộ 3PN Vinhomes Grand Park Q9 view sông thoáng mát 2,7 Tý
+Image count: 27
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 42818062_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 42818062_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 42818062_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/24/20250424151627-5638_wm.jpg -> 42818062_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/24/20250424151659-d663_wm.jpg -> 42818062_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/24/20250424151659-2c89_wm.jpg -> 42818062_6.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/24/20250424151659-f41d_wm.jpg -> 42818062_7.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/24/20250424151937-ffb9_wm.jpg -> 42818062_8.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/24/20250424151937-f1c3_wm.jpg -> 42818062_9.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/24/20250424152012-404f_wm.jpg -> 42818062_10.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/24/20250424152013-55ce_wm.jpg -> 42818062_11.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/24/20250424152036-621b_wm.jpg -> 42818062_12.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/24/20250424151627-5638_wm.jpg -> 42818062_13.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/24/20250424151659-d663_wm.jpg -> 42818062_14.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/24/20250424151659-2c89_wm.jpg -> 42818062_15.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/24/20250424151659-f41d_wm.jpg -> 42818062_16.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/24/20250424151937-ffb9_wm.jpg -> 42818062_17.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/24/20250424151937-f1c3_wm.jpg -> 42818062_18.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/24/20250424152012-404f_wm.jpg -> 42818062_19.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/24/20250424152013-55ce_wm.jpg -> 42818062_20.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/24/20250424152036-621b_wm.jpg -> 42818062_21.jpg
+- https://file4.batdongsan.com.vn/crop/320x320/2023/06/17/20230617010432-7ec0_wm.jpg -> 42818062_22.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 42818062_23.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 42818062_24.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 42818062_25.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 42818062_26.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 42818062_27.jpg

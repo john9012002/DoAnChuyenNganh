@@ -1,0 +1,22 @@
+URL: https://batdongsan.com.vn/ban-dat-duong-long-phuoc-phuong-long-phuoc-2/ban-1000m2-vuon-biet-thu-nhua-6m-thu-duc-gia-chi-18-ty-pr43060717
+Property ID: 43060717
+Title: Bán 1000m2 đất vườn biệt thự, đường nhựa 6m, Long Phước, Thủ Đức giá chỉ 18 tỷ
+Image count: 16
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 43060717_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 43060717_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 43060717_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/23/20250523143446-d7e2_wm.jpg -> 43060717_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/23/20250523143446-b49e_wm.jpg -> 43060717_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/23/20250523143447-c589_wm.jpg -> 43060717_6.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/23/20250523143446-d7e2_wm.jpg -> 43060717_7.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/23/20250523143446-b49e_wm.jpg -> 43060717_8.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/23/20250523143447-c589_wm.jpg -> 43060717_9.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 43060717_10.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/06/18/20240618143012-9ae9.jpg -> 43060717_11.jpg
+- https://staticfile.batdongsan.com.vn/images/Personal/ldp-pro-agent-badge.svg -> 43060717_12.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 43060717_13.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 43060717_14.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 43060717_15.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 43060717_16.jpg

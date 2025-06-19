@@ -1,0 +1,31 @@
+URL: https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-xa-lo-ha-noi-phuong-an-phu-prj-lumiere-riverside/-em-chuyen-san-nhung-gia-goc-cat-52m2-6-5ty-77m2-9ty-101m2-12ty-pr42620616
+Property ID: 42620616
+Title: Lumiere Riverside em chuyên săn những căn giá gốc cắt lỗ (52m2-6,5tỷ) (77m2-9tỷ) (101m2-12tỷ)
+Image count: 25
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 42620616_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 42620616_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 42620616_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2023/11/18/20231118091329-ade9_wm.jpg -> 42620616_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2023/11/18/20231118091336-5868_wm.jpg -> 42620616_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2023/11/18/20231118091342-37b5_wm.jpg -> 42620616_6.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2023/11/18/20231118091349-b193_wm.jpg -> 42620616_7.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2023/11/18/20231118091355-4884_wm.jpg -> 42620616_8.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2023/11/18/20231118091401-1127_wm.jpg -> 42620616_9.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2023/11/18/20231118091407-7bfe_wm.jpg -> 42620616_10.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2023/11/18/20231118091329-ade9_wm.jpg -> 42620616_11.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2023/11/18/20231118091336-5868_wm.jpg -> 42620616_12.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2023/11/18/20231118091342-37b5_wm.jpg -> 42620616_13.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2023/11/18/20231118091349-b193_wm.jpg -> 42620616_14.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2023/11/18/20231118091355-4884_wm.jpg -> 42620616_15.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2023/11/18/20231118091401-1127_wm.jpg -> 42620616_16.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2023/11/18/20231118091407-7bfe_wm.jpg -> 42620616_17.jpg
+- https://file4.batdongsan.com.vn/crop/320x320/2020/12/02/hmcVYWuR/20201202114921-dad0.jpg -> 42620616_18.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 42620616_19.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/02/28/20250228202501-cabf.jpg -> 42620616_20.jpg
+- https://staticfile.batdongsan.com.vn/images/Personal/ldp-pro-agent-badge.svg -> 42620616_21.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 42620616_22.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 42620616_23.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 42620616_24.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 42620616_25.jpg

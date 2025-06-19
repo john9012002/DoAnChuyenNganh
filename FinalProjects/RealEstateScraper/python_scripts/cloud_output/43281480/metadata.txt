@@ -1,0 +1,20 @@
+URL: https://batdongsan.com.vn/ban-dat-duong-thanh-loc-19-1-phuong-thanh-loc-3/chinh-chu-ket-tien-can-ban-gap-gia-re-tang-nha-c4-tl19-91m2-4-5-ty-p-quan-12-pr43281480
+Property ID: 43281480
+Title: Chính chủ kẹt tiền cần bán gấp giá rẻ bán đất tặng nhà C4 đường TL19, P. Thạnh Lộc, Q12 chỉ 4.7 tỷ
+Image count: 14
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 43281480_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 43281480_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 43281480_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/17/20250617110353-bbc5_wm.jpg -> 43281480_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/17/20250617110851-ec5a_wm.jpg -> 43281480_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/17/20250617110854-e447_wm.jpg -> 43281480_6.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/17/20250617110353-bbc5_wm.jpg -> 43281480_7.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/17/20250617110851-ec5a_wm.jpg -> 43281480_8.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/17/20250617110854-e447_wm.jpg -> 43281480_9.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 43281480_10.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 43281480_11.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 43281480_12.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 43281480_13.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 43281480_14.jpg

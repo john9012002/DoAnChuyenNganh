@@ -1,0 +1,22 @@
+URL: https://batdongsan.com.vn/ban-dat-duong-linh-dong-phuong-linh-dong/ban-nha-mat-tien-kinh-doanh-dang-cho-thue-40-trieu-thang-chieu-ngang-10m-pr42852506
+Property ID: 42852506
+Title: Bán đất mặt tiền kinh doanh, đường Linh Đông, đang cho thuê 40 triệu/tháng. Chiều ngang 10m
+Image count: 16
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 42852506_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 42852506_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 42852506_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/29/20250429072614-51e1_wm.jpg -> 42852506_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/29/20250429072614-2648_wm.jpg -> 42852506_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/29/20250429072614-8302_wm.jpg -> 42852506_6.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/29/20250429072614-51e1_wm.jpg -> 42852506_7.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/29/20250429072614-2648_wm.jpg -> 42852506_8.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/29/20250429072614-8302_wm.jpg -> 42852506_9.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 42852506_10.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/06/18/20240618143012-9ae9.jpg -> 42852506_11.jpg
+- https://staticfile.batdongsan.com.vn/images/Personal/ldp-pro-agent-badge.svg -> 42852506_12.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 42852506_13.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 42852506_14.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 42852506_15.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 42852506_16.jpg

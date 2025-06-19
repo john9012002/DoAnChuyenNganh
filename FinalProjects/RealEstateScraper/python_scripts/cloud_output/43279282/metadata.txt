@@ -1,0 +1,40 @@
+URL: https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-n1-phuong-son-ky-prj-diamond-alnata-plus-celadon-city/-xe-i-chay-len-tan-nha-skylikned-gara-oto-rieng-tk-2pn-dt-167-7-m2-mua-tt-cdt-10ty341-pr43279282
+Property ID: 43279282
+Title: Căn hộ xe hơi chạy lên tận nhà Skylikned - Gara ôtô riêng, TK 2PN, DT 167,7 m2 - Mua TT CĐT 10tỷ341
+Image count: 34
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 43279282_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 43279282_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 43279282_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/17/20250617090839-4645_wm.jpg -> 43279282_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/17/20250617090344-0781_wm.jpg -> 43279282_6.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/17/20250617090344-b302_wm.jpg -> 43279282_7.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/17/20250617090344-8691_wm.jpg -> 43279282_8.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/17/20250617090839-2b47_wm.jpg -> 43279282_9.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/17/20250617090839-f4a0_wm.jpg -> 43279282_10.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/17/20250617090839-8ffb_wm.jpg -> 43279282_11.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/17/20250617090344-a296_wm.jpg -> 43279282_12.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/17/20250617090839-2624_wm.jpg -> 43279282_13.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/17/20250617090839-bb4a_wm.jpg -> 43279282_14.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/17/20250617090839-736e_wm.jpg -> 43279282_15.jpg
+- https://i1.ytimg.com/vi/Sa9JH5Hdmu4/default.jpg -> 43279282_16.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/17/20250617090839-4645_wm.jpg -> 43279282_17.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/17/20250617090344-0781_wm.jpg -> 43279282_18.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/17/20250617090344-b302_wm.jpg -> 43279282_19.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/17/20250617090344-8691_wm.jpg -> 43279282_20.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/17/20250617090839-2b47_wm.jpg -> 43279282_21.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/17/20250617090839-f4a0_wm.jpg -> 43279282_22.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/17/20250617090839-8ffb_wm.jpg -> 43279282_23.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/17/20250617090344-a296_wm.jpg -> 43279282_24.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/17/20250617090839-2624_wm.jpg -> 43279282_25.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/17/20250617090839-bb4a_wm.jpg -> 43279282_26.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/17/20250617090839-736e_wm.jpg -> 43279282_27.jpg
+- https://file4.batdongsan.com.vn/crop/320x320/2024/09/10/20240910153023-4bf0_wm.jpg -> 43279282_28.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 43279282_29.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/09/16/20240916111358-2d9f.jpg -> 43279282_30.jpg
+- https://staticfile.batdongsan.com.vn/images/Personal/ldp-pro-agent-badge.svg -> 43279282_31.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 43279282_32.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 43279282_33.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 43279282_34.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 43279282_35.jpg

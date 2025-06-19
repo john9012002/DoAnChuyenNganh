@@ -1,0 +1,25 @@
+URL: https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-lo-lu-phuong-truong-thanh-prj-chung-cu-elysian/mo-ban-gio-hang-noi-bo-cdt-khd-5-ck-10-mie-pql-5-nam-tra-cham-cdt-den-nam-2029-pr43219815
+Property ID: 43219815
+Title: Mở bán giỏ hàng nội bộ CĐT Elysian - KHĐ 5% - CK 10% - miễn PQL 5 năm - trả chậm cđt đến năm 2029
+Image count: 19
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 43219815_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 43219815_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 43219815_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/10/20250610142842-e743_wm.jpg -> 43219815_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/10/20250610142843-bacf_wm.jpg -> 43219815_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/10/20250610142930-7da0_wm.jpg -> 43219815_6.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/10/20250610142931-136e_wm.jpg -> 43219815_7.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/10/20250610142931-7094_wm.jpg -> 43219815_8.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/10/20250610142842-e743_wm.jpg -> 43219815_9.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/10/20250610142843-bacf_wm.jpg -> 43219815_10.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/10/20250610142930-7da0_wm.jpg -> 43219815_11.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/10/20250610142931-136e_wm.jpg -> 43219815_12.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/10/20250610142931-7094_wm.jpg -> 43219815_13.jpg
+- https://file4.batdongsan.com.vn/crop/320x320/2019/04/08/zk7ggeWN/20190408165047-c339.jpg -> 43219815_14.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 43219815_15.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 43219815_16.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 43219815_17.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 43219815_18.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 43219815_19.jpg

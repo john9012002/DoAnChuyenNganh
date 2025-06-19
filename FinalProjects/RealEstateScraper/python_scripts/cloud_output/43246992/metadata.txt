@@ -1,0 +1,43 @@
+URL: https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-lo-lu-phuong-truong-thanh-prj-chung-cu-elysian/mo-ban-dot-cuoi-ro-hang-dep-nhat-mien-phi-ql-5-nam-booking-uu-dai-10-con-5-suat-duy-nhat-pr43246992
+Property ID: 43246992
+Title: Mở bán đợt cuối rổ hàng dự án Elysian 2 Tháp B-D, Miễn Phí QL 5 năm, booking ưu đãi 10% còn 5 suất
+Image count: 37
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 43246992_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 43246992_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 43246992_3.jpg
+- https://i1.ytimg.com/vi/YfTkXuoL0rw/maxresdefault.jpg -> 43246992_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/18/20250618104038-2477_wm.jpg -> 43246992_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/17/20250617161323-27e3_wm.jpg -> 43246992_6.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/30/20250530100804-802a_wm.jpg -> 43246992_7.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/30/20250530100804-f7b2_wm.jpg -> 43246992_8.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/17/20250617161446-589b_wm.jpg -> 43246992_9.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/30/20250530100804-9afb_wm.jpg -> 43246992_10.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/30/20250530100804-b722_wm.jpg -> 43246992_11.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/30/20250530100804-2721_wm.jpg -> 43246992_12.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/30/20250530100804-4963_wm.jpg -> 43246992_13.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/30/20250530100804-9b09_wm.jpg -> 43246992_14.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/30/20250530100804-5778_wm.jpg -> 43246992_15.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/30/20250530100804-ed9a_wm.jpg -> 43246992_16.jpg
+- https://i1.ytimg.com/vi/YfTkXuoL0rw/default.jpg -> 43246992_17.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/18/20250618104038-2477_wm.jpg -> 43246992_18.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/17/20250617161323-27e3_wm.jpg -> 43246992_19.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/30/20250530100804-802a_wm.jpg -> 43246992_20.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/30/20250530100804-f7b2_wm.jpg -> 43246992_21.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/17/20250617161446-589b_wm.jpg -> 43246992_22.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/30/20250530100804-9afb_wm.jpg -> 43246992_23.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/30/20250530100804-b722_wm.jpg -> 43246992_24.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/30/20250530100804-2721_wm.jpg -> 43246992_25.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/30/20250530100804-4963_wm.jpg -> 43246992_26.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/30/20250530100804-9b09_wm.jpg -> 43246992_27.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/30/20250530100804-5778_wm.jpg -> 43246992_28.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/30/20250530100804-ed9a_wm.jpg -> 43246992_29.jpg
+- https://file4.batdongsan.com.vn/crop/320x320/2019/04/08/zk7ggeWN/20190408165047-c339.jpg -> 43246992_30.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 43246992_31.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/03/25/20250325114017-84be.jpg -> 43246992_32.jpg
+- https://staticfile.batdongsan.com.vn/images/Personal/ldp-pro-agent-badge.svg -> 43246992_33.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 43246992_34.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 43246992_35.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 43246992_36.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 43246992_37.jpg

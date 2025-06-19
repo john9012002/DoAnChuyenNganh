@@ -1,0 +1,30 @@
+URL: https://batdongsan.com.vn/ban-nha-rieng-duong-160-phuong-tang-nhon-phu-a/bn-gp-3-dep-lung-linh-ngy-trung-tm-80m2-gi-7-ty-pr43179344
+Property ID: 43179344
+Title: Bán gấp nhà 3 tầng đẹp lung linh ngay trung tâm Tăng Nhơn Phú A, 72.1m2 giá 7 tỷ
+Image count: 24
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 43179344_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 43179344_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 43179344_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/05/20250605190010-2a0b_wm.jpg -> 43179344_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/05/20250605190012-8f30_wm.jpg -> 43179344_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/05/20250605190013-2577_wm.jpg -> 43179344_6.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/05/20250605190015-9080_wm.jpg -> 43179344_7.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/05/20250605190016-835e_wm.jpg -> 43179344_8.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/05/20250605190017-d573_wm.jpg -> 43179344_9.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/05/20250605190018-3b3b_wm.jpg -> 43179344_10.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/05/20250605190010-2a0b_wm.jpg -> 43179344_11.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/05/20250605190012-8f30_wm.jpg -> 43179344_12.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/05/20250605190013-2577_wm.jpg -> 43179344_13.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/05/20250605190015-9080_wm.jpg -> 43179344_14.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/05/20250605190016-835e_wm.jpg -> 43179344_15.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/05/20250605190017-d573_wm.jpg -> 43179344_16.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/05/20250605190018-3b3b_wm.jpg -> 43179344_17.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 43179344_18.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/16/20250616103529-3076.jpg -> 43179344_19.jpg
+- https://staticfile.batdongsan.com.vn/images/Personal/ldp-pro-agent-badge.svg -> 43179344_20.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 43179344_21.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 43179344_22.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 43179344_23.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 43179344_24.jpg

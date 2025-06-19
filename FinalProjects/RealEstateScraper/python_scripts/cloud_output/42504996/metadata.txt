@@ -1,0 +1,34 @@
+URL: https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-dien-bien-phu-phuong-22-prj-vinhomes-central-park/ban-vinmes-gia-tot-nhat-1-2-3-4-pn-day-du-cac-loai-tich-pr42504996
+Property ID: 42504996
+Title: Bán căn hộ Vinhomes Central Park - giá rẻ nhất thị trường từ 91tr/m2!
+Image count: 28
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 42504996_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 42504996_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 42504996_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/03/21/20250321211438-0077_wm.jpg -> 42504996_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/03/21/20250321211439-1f52_wm.jpg -> 42504996_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/03/21/20250321211439-a0b9_wm.jpg -> 42504996_6.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/13/20250413121849-1533_wm.jpg -> 42504996_7.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/13/20250413121850-c333_wm.jpg -> 42504996_8.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/13/20250413121852-e573_wm.jpg -> 42504996_9.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/13/20250413121853-dfb1_wm.jpg -> 42504996_10.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/13/20250413121854-44a8_wm.jpg -> 42504996_11.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/13/20250413121854-1885_wm.jpg -> 42504996_12.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/03/21/20250321211438-0077_wm.jpg -> 42504996_13.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/03/21/20250321211439-1f52_wm.jpg -> 42504996_14.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/03/21/20250321211439-a0b9_wm.jpg -> 42504996_15.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/13/20250413121849-1533_wm.jpg -> 42504996_16.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/13/20250413121850-c333_wm.jpg -> 42504996_17.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/13/20250413121852-e573_wm.jpg -> 42504996_18.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/13/20250413121853-dfb1_wm.jpg -> 42504996_19.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/13/20250413121854-44a8_wm.jpg -> 42504996_20.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/13/20250413121854-1885_wm.jpg -> 42504996_21.jpg
+- https://file4.batdongsan.com.vn/crop/320x320/2024/08/02/20240802004815-e780_wm.jpg -> 42504996_22.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 42504996_23.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/03/18/20250318131857-11a5.jpg -> 42504996_24.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 42504996_25.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 42504996_26.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 42504996_27.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 42504996_28.jpg

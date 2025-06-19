@@ -1,0 +1,47 @@
+URL: https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-dien-bien-phu-phuong-22-prj-vinhomes-central-park/quan-ly-nhieu-vinmes-gia-tot-1pn-5-ty-2pn-7-2-ty-3pn-11-3-ty-4pn-17-ty-pr43272211
+Property ID: 43272211
+Title: Quản lý nhiều căn hộ Vinhomes Central Park giá tốt 1PN=5 tỷ, 2PN=7.2 tỷ, 3PN=11.3 tỷ, 4PN=17 tỷ
+Image count: 41
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 43272211_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 43272211_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 43272211_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/07/20250507104548-c8ed_wm.jpg -> 43272211_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/07/20250507104547-dcde_wm.jpg -> 43272211_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/07/20250507104548-e91c_wm.jpg -> 43272211_6.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/07/20250507104547-fa99_wm.jpg -> 43272211_7.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/07/20250507104547-eeaa_wm.jpg -> 43272211_8.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/07/20250507104548-4bb7_wm.jpg -> 43272211_9.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/07/20250507104547-306f_wm.jpg -> 43272211_10.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/07/20250507104547-a095_wm.jpg -> 43272211_11.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/07/20250507104547-028b_wm.jpg -> 43272211_12.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/07/20250507104547-1453_wm.jpg -> 43272211_13.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/07/20250507104547-3eb6_wm.jpg -> 43272211_14.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/07/20250507104547-ecd0_wm.jpg -> 43272211_15.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/07/20250507104548-1b4f_wm.jpg -> 43272211_16.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/07/20250507104548-3f2f_wm.jpg -> 43272211_17.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/07/20250507104546-ecda_wm.jpg -> 43272211_18.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/07/20250507104548-c8ed_wm.jpg -> 43272211_19.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/07/20250507104547-dcde_wm.jpg -> 43272211_20.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/07/20250507104548-e91c_wm.jpg -> 43272211_21.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/07/20250507104547-fa99_wm.jpg -> 43272211_22.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/07/20250507104547-eeaa_wm.jpg -> 43272211_23.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/07/20250507104548-4bb7_wm.jpg -> 43272211_24.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/07/20250507104547-306f_wm.jpg -> 43272211_25.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/07/20250507104547-a095_wm.jpg -> 43272211_26.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/07/20250507104547-028b_wm.jpg -> 43272211_27.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/07/20250507104547-1453_wm.jpg -> 43272211_28.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/07/20250507104547-3eb6_wm.jpg -> 43272211_29.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/07/20250507104547-ecd0_wm.jpg -> 43272211_30.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/07/20250507104548-1b4f_wm.jpg -> 43272211_31.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/07/20250507104548-3f2f_wm.jpg -> 43272211_32.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/07/20250507104546-ecda_wm.jpg -> 43272211_33.jpg
+- https://file4.batdongsan.com.vn/crop/320x320/2024/08/02/20240802004815-e780_wm.jpg -> 43272211_34.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 43272211_35.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2023/05/30/20230530113949-24e8.jpg -> 43272211_36.jpg
+- https://staticfile.batdongsan.com.vn/images/Personal/ldp-pro-agent-badge.svg -> 43272211_37.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 43272211_38.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 43272211_39.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 43272211_40.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 43272211_41.jpg

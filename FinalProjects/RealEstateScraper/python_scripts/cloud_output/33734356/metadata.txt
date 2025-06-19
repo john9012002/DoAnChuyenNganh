@@ -1,0 +1,33 @@
+URL: https://batdongsan.com.vn/ban-can-ho-chung-cu-pho-ton-duc-thang-phuong-ben-nghe-prj-vinhomes-golden-river-ba-son/gio-hang-chuyen-nhuong-vinmes-bason-nhung-gia-tot-5-pr33734356
+Property ID: 33734356
+Title: Giỏ hàng chuyển nhượng căn hộ Vinhomes Ba Son 1PN, 2PN, 3PN, 4PN những căn giá tốt tháng T05/2025
+Image count: 27
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 33734356_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 33734356_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 33734356_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2024/06/04/20240604155246-77ba_wm.jpg -> 33734356_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2024/06/04/20240604155402-b4a7_wm.jpg -> 33734356_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2024/06/04/20240604155347-f95e_wm.jpg -> 33734356_6.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2024/06/04/20240604155319-272f_wm.jpg -> 33734356_7.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2024/06/04/20240604155302-c613_wm.jpg -> 33734356_8.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2024/06/04/20240604155333-d4e2_wm.jpg -> 33734356_9.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2024/06/04/20240604155418-e2e0_wm.jpg -> 33734356_10.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2024/06/04/20240604155434-3653_wm.jpg -> 33734356_11.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/06/04/20240604155246-77ba_wm.jpg -> 33734356_12.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/06/04/20240604155402-b4a7_wm.jpg -> 33734356_13.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/06/04/20240604155347-f95e_wm.jpg -> 33734356_14.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/06/04/20240604155319-272f_wm.jpg -> 33734356_15.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/06/04/20240604155302-c613_wm.jpg -> 33734356_16.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/06/04/20240604155333-d4e2_wm.jpg -> 33734356_17.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/06/04/20240604155418-e2e0_wm.jpg -> 33734356_18.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2024/06/04/20240604155434-3653_wm.jpg -> 33734356_19.jpg
+- https://file4.batdongsan.com.vn/crop/320x320/2023/09/15/20230915142152-8dc6_wm.jpg -> 33734356_20.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 33734356_21.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2023/12/05/20231205083435-8866.jpg -> 33734356_22.jpg
+- https://staticfile.batdongsan.com.vn/images/Personal/ldp-pro-agent-badge.svg -> 33734356_23.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 33734356_24.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 33734356_25.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 33734356_26.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 33734356_27.jpg

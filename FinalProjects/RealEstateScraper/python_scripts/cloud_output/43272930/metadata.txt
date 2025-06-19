@@ -1,0 +1,28 @@
+URL: https://batdongsan.com.vn/ban-can-ho-chung-cu-phuong-long-binh-3-prj-the-beverly-vinhomes-grand-park/gia-chu-ban-gap-1pn-view-truc-dien-cong-vien-pr43272930
+Property ID: 43272930
+Title: GIA CHỦ CẦN BÁN GẤP CĂN BEVERLY 1PN+ VIEW TRỰC DIỆN CÔNG VIÊN
+Image count: 22
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 43272930_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 43272930_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 43272930_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/07/20250507153535-9b1a_wm.jpg -> 43272930_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/07/20250507153535-0e14_wm.jpg -> 43272930_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/07/20250507153535-72d6_wm.jpg -> 43272930_6.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/07/20250507153535-d2df_wm.jpg -> 43272930_7.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/07/20250507153535-2efd_wm.jpg -> 43272930_8.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/05/07/20250507153536-5fdf_wm.jpg -> 43272930_9.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/07/20250507153535-9b1a_wm.jpg -> 43272930_10.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/07/20250507153535-0e14_wm.jpg -> 43272930_11.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/07/20250507153535-72d6_wm.jpg -> 43272930_12.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/07/20250507153535-d2df_wm.jpg -> 43272930_13.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/07/20250507153535-2efd_wm.jpg -> 43272930_14.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/05/07/20250507153536-5fdf_wm.jpg -> 43272930_15.jpg
+- https://file4.batdongsan.com.vn/crop/320x320/2021/11/09/20211109164726-7883.jpg -> 43272930_16.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 43272930_17.jpg
+- https://file4.batdongsan.com.vn/resize/255x180/2025/04/16/20250416122000-194e.jpg -> 43272930_18.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 43272930_19.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 43272930_20.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 43272930_21.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 43272930_22.jpg

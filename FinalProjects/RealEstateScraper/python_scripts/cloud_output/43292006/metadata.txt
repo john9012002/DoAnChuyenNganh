@@ -1,0 +1,35 @@
+URL: https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-so-9-phuong-linh-xuan-prj-happy-one-sora/-3-1-ty-tai-tp-thu-duc-thanh-toan-25-trong-8-thang-phan-con-lai-ngung-den-luc-nhan-nha-pr43292006
+Property ID: 43292006
+Title: Căn hộ 3,35 tỷ tại TP Thủ Đức, thanh toán 25% trong 8 tháng, phần còn lại ngưng đến lúc nhận nhà
+Image count: 29
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 43292006_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 43292006_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 43292006_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/18/20250618110459-3b40_wm.jpg -> 43292006_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/18/20250618110500-4fa8_wm.jpg -> 43292006_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/18/20250618110501-4562_wm.jpg -> 43292006_6.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/18/20250618110503-9e24_wm.jpg -> 43292006_7.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/18/20250618110504-555f_wm.jpg -> 43292006_8.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/18/20250618110506-9f51_wm.jpg -> 43292006_9.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/18/20250618110508-a580_wm.jpg -> 43292006_10.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/18/20250618110510-92a5_wm.jpg -> 43292006_11.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/18/20250618110511-8de2_wm.jpg -> 43292006_12.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/18/20250618110513-4c04_wm.jpg -> 43292006_13.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/18/20250618110459-3b40_wm.jpg -> 43292006_14.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/18/20250618110500-4fa8_wm.jpg -> 43292006_15.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/18/20250618110501-4562_wm.jpg -> 43292006_16.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/18/20250618110503-9e24_wm.jpg -> 43292006_17.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/18/20250618110504-555f_wm.jpg -> 43292006_18.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/18/20250618110506-9f51_wm.jpg -> 43292006_19.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/18/20250618110508-a580_wm.jpg -> 43292006_20.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/18/20250618110510-92a5_wm.jpg -> 43292006_21.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/18/20250618110511-8de2_wm.jpg -> 43292006_22.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/18/20250618110513-4c04_wm.jpg -> 43292006_23.jpg
+- https://file4.batdongsan.com.vn/crop/320x320/2022/02/18/20220218094810-80ec.jpg -> 43292006_24.jpg
+- https://file4.batdongsan.com.vn/resize/255x180/2025/06/18/20250618104337-4748.jpg -> 43292006_25.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 43292006_26.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 43292006_27.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 43292006_28.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 43292006_29.jpg

@@ -1,0 +1,41 @@
+URL: https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-dien-bien-phu-phuong-22-prj-vinhomes-central-park/gio-hang-200-vinmes-dang-rao-ban-1-2-3-4pn-gia-tot-so-ng-cong-ngay-pr43266293
+Property ID: 43266293
+Title: Giỏ hàng 200 căn hộ Vinhomes Central Park đang rao bán 1-2-3-4PN. Giá tốt sổ hồng công chứng ngay
+Image count: 35
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 43266293_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 43266293_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 43266293_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/15/20250615161346-5d0f_wm.jpg -> 43266293_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/15/20250615161346-60e1_wm.jpg -> 43266293_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/15/20250615161346-1c7e_wm.jpg -> 43266293_6.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/15/20250615161346-8040_wm.jpg -> 43266293_7.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/15/20250615161346-ac79_wm.jpg -> 43266293_8.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/15/20250615161346-05cc_wm.jpg -> 43266293_9.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/15/20250615161346-ffc3_wm.jpg -> 43266293_10.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/15/20250615161346-3506_wm.jpg -> 43266293_11.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/15/20250615161346-6b43_wm.jpg -> 43266293_12.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/15/20250615161346-0166_wm.jpg -> 43266293_13.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/15/20250615161346-3dbc_wm.jpg -> 43266293_14.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/15/20250615161346-9389_wm.jpg -> 43266293_15.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/15/20250615161346-5d0f_wm.jpg -> 43266293_16.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/15/20250615161346-60e1_wm.jpg -> 43266293_17.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/15/20250615161346-1c7e_wm.jpg -> 43266293_18.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/15/20250615161346-8040_wm.jpg -> 43266293_19.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/15/20250615161346-ac79_wm.jpg -> 43266293_20.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/15/20250615161346-05cc_wm.jpg -> 43266293_21.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/15/20250615161346-ffc3_wm.jpg -> 43266293_22.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/15/20250615161346-3506_wm.jpg -> 43266293_23.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/15/20250615161346-6b43_wm.jpg -> 43266293_24.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/15/20250615161346-0166_wm.jpg -> 43266293_25.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/15/20250615161346-3dbc_wm.jpg -> 43266293_26.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/15/20250615161346-9389_wm.jpg -> 43266293_27.jpg
+- https://file4.batdongsan.com.vn/crop/320x320/2024/08/02/20240802004815-e780_wm.jpg -> 43266293_28.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 43266293_29.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/02/13/20250213151952-54fe.jpg -> 43266293_30.jpg
+- https://staticfile.batdongsan.com.vn/images/Personal/ldp-pro-agent-badge.svg -> 43266293_31.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 43266293_32.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 43266293_33.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 43266293_34.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 43266293_35.jpg

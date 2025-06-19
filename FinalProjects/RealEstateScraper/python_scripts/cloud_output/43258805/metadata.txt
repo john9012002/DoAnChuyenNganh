@@ -1,0 +1,33 @@
+URL: https://batdongsan.com.vn/ban-can-ho-chung-cu-pho-ton-duc-thang-phuong-ben-nghe-prj-grand-marina-saigon/-em-chuyen-san-nhung-ban-cat-lo-56m2-20ty-87m2-30ty-150m2-65ty-pr43258805
+Property ID: 43258805
+Title: Grand Marina Saigon - Em chuyên săn những căn bán cắt lỗ (56m2-20tỷ) (87m2-30tỷ) (150m2-65tỷ)
+Image count: 27
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 43258805_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 43258805_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 43258805_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/01/20250401093806-18ea_wm.jpg -> 43258805_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/01/20250401093819-e7e2_wm.jpg -> 43258805_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/01/20250401093834-59df_wm.jpg -> 43258805_6.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/01/20250401093839-f70f_wm.jpg -> 43258805_7.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/01/20250401093846-4af3_wm.jpg -> 43258805_8.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/01/20250401093856-a8b8_wm.jpg -> 43258805_9.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/01/20250401093900-2386_wm.jpg -> 43258805_10.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/04/01/20250401093911-f580_wm.jpg -> 43258805_11.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/01/20250401093806-18ea_wm.jpg -> 43258805_12.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/01/20250401093819-e7e2_wm.jpg -> 43258805_13.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/01/20250401093834-59df_wm.jpg -> 43258805_14.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/01/20250401093839-f70f_wm.jpg -> 43258805_15.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/01/20250401093846-4af3_wm.jpg -> 43258805_16.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/01/20250401093856-a8b8_wm.jpg -> 43258805_17.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/01/20250401093900-2386_wm.jpg -> 43258805_18.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/04/01/20250401093911-f580_wm.jpg -> 43258805_19.jpg
+- https://file4.batdongsan.com.vn/crop/320x320/2021/02/04/hmcVYWuR/20210204103126-2e15.jpg -> 43258805_20.jpg
+- https://staticfile.batdongsan.com.vn/images/chart/chart-empty.svg -> 43258805_21.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/02/28/20250228202501-cabf.jpg -> 43258805_22.jpg
+- https://staticfile.batdongsan.com.vn/images/Personal/ldp-pro-agent-badge.svg -> 43258805_23.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 43258805_24.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 43258805_25.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 43258805_26.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 43258805_27.jpg

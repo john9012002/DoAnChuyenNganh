@@ -1,0 +1,21 @@
+URL: https://batdongsan.com.vn/ban-nha-mat-pho-duong-cong-hoa-phuong-13-10-prj-etown-building/ha-gia-chi-con-57-ty-ban-gap-toa-khach-san-tien-hoa-pr43300581
+Property ID: 43300581
+Title: Hạ Giá chỉ còn 57 tỷ - Bán gấp Tòa nhà khách sạn Mặt Tiền Cộng Hòa
+Image count: 15
+
+Images:
+- https://staticfile.batdongsan.com.vn/images/app/app-store.png -> 43300581_1.jpg
+- https://staticfile.batdongsan.com.vn/images/app/g-play.png -> 43300581_2.jpg
+- https://staticfile.batdongsan.com.vn/images/empty-state.svg -> 43300581_3.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/19/20250619091946-f977_wm.jpg -> 43300581_4.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/19/20250619091946-79b8_wm.jpg -> 43300581_5.jpg
+- https://file4.batdongsan.com.vn/resize/1275x717/2025/06/19/20250619091946-0e6e_wm.jpg -> 43300581_6.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/19/20250619091946-f977_wm.jpg -> 43300581_7.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/19/20250619091946-79b8_wm.jpg -> 43300581_8.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/19/20250619091946-0e6e_wm.jpg -> 43300581_9.jpg
+- https://file4.batdongsan.com.vn/resize/200x200/2025/06/13/20250613150431-d02f.jpg -> 43300581_11.jpg
+- https://staticfile.batdongsan.com.vn/images/Personal/ldp-pro-agent-badge.svg -> 43300581_12.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/google-play.png -> 43300581_13.jpg
+- https://staticfile.batdongsan.com.vn/images/mobile/footer/app_store.png -> 43300581_14.jpg
+- https://staticfile.batdongsan.com.vn/images/newhome/da-dang-ki-bct.svg -> 43300581_15.jpg
+- https://staticfile.batdongsan.com.vn/images/loading/loading-buffering_v2.svg -> 43300581_16.jpg
