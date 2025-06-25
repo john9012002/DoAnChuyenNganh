@@ -50,7 +50,7 @@ const ListingsScreen: React.FC = () => {
   const fetchListings = async () => {
     try {
       console.log('Attempting to fetch from http://127.0.0.1:5000/api/listings');
-      const response = await axios.get<ApiResponse>('http://127.0.0.1:5000/api/listings', {
+      const response = await axios.get<ApiResponse>('http://192.168.1.7:5000/api/listings', {
         timeout: 30000,
       });
       console.log('Fetch successful, status:', response.status);

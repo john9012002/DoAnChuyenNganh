@@ -49,7 +49,7 @@ const TrendsScreen: React.FC = () => {
   // API URLs for different Expo environments
   const getApiUrls = () => {
     // THAY ĐỔI IP NÀY THÀNH IP THẬT CỦA MÁY TÍNH BẠN
-    const YOUR_COMPUTER_IP = '192.168.1.100'; // ⚠️ THAY ĐỔI IP NÀY
+    const YOUR_COMPUTER_IP = '192.168.1.7'; // ⚠️ THAY ĐỔI IP NÀY
     
     const urls = [];
     
