@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { View, Text, StyleSheet, TouchableOpacity, Image, Alert } from 'react-native';
+import { View, Text, StyleSheet, TouchableOpacity, Image, Alert, Platform } from 'react-native';
 import { useNavigation } from '@react-navigation/native';
 import { Button, TextInput } from 'react-native-paper';
 import { RootStackParamList } from '../../App';
@@ -101,18 +101,24 @@ const HomeScreen: React.FC = () => {
               >
                 Đăng nhập
               </Button>
-              <Text
-                style={styles.switchText}
+              <TouchableOpacity
+                activeOpacity={0.4} // Stronger visual feedback
                 onPress={() => {
+                  console.log('Tapped: Switch to register');
                   setAuthMode('register');
                   setFullName('');
                   setEmail('');
                   setUsername('');
                   setPassword('');
                 }}
+                style={styles.switchButton}
+                pointerEvents="auto"
+                accessibilityLabel="Chuyển sang đăng ký"
               >
-                Chưa có tài khoản? Đăng ký
-              </Text>
+                <Text style={styles.switchText}>
+                  Chưa có tài khoản? Đăng ký
+                </Text>
+              </TouchableOpacity>
             </>
           ) : (
             <>
@@ -164,18 +170,24 @@ const HomeScreen: React.FC = () => {
               >
                 Đăng ký
               </Button>
-              <Text
-                style={styles.switchText}
+              <TouchableOpacity
+                activeOpacity={0.4}
                 onPress={() => {
+                  console.log('Tapped: Switch to login');
                   setAuthMode('login');
                   setFullName('');
                   setEmail('');
                   setUsername('');
                   setPassword('');
                 }}
+                style={styles.switchButton}
+                pointerEvents="auto"
+                accessibilityLabel="Chuyển sang đăng nhập"
               >
-                Đã có tài khoản? Đăng nhập
-              </Text>
+                <Text style={styles.switchText}>
+                  Đã có tài khoản? Đăng nhập
+                </Text>
+              </TouchableOpacity>
             </>
           )}
         </View>
@@ -241,11 +253,11 @@ const styles = StyleSheet.create({
     backgroundColor: 'white',
     borderRadius: 8,
     elevation: 2,
+    zIndex: 1, // Ensure container is above other elements
   },
   input: {
     width: '100%',
     backgroundColor: 'white',
-    marginRight: 8,
   },
   signInButton: {
     backgroundColor: '#6200ee',
@@ -258,11 +270,19 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     color: '#fff',
   },
+  switchButton: {
+    padding: 10, // Increased touch area
+    borderRadius: 5,
+    zIndex: 10,
+    backgroundColor: 'rgba(0, 0, 255, 0.1)', // Debug: Visible touch area
+    ...(Platform.OS === 'web' && { cursor: 'pointer' }),
+  },
   switchText: {
-    marginTop: 10,
     color: '#007bff',
     fontSize: 14,
+    fontWeight: '600',
     textDecorationLine: 'underline',
+    textAlign: 'center',
   },
   content: {
     flex: 1,

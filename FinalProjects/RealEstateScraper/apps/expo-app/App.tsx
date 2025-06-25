@@ -4,6 +4,7 @@ import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { Icon } from 'react-native-paper';
 import HomeScreen from './src/screens/HomeScreen';
 import ListingsScreen from './src/screens/ListingsScreen';
+
 import TrendsScreen from './src/screens/TrendScreen';
 
 export type RootStackParamList = {
