@@ -1,57 +1,29 @@
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
-import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
-import { Icon } from 'react-native-paper';
-import HomeScreen from './src/screens/HomeScreen';
-import ListingsScreen from './src/screens/ListingsScreen';
-
-import TrendsScreen from './src/screens/TrendScreen';
+import { createStackNavigator } from '@react-navigation/stack';
+import HomeScreen from './src/screens/HomeScreen'; // Adjust path as needed
+import ListingsScreen from './src/screens/ListingsScreen'; // Adjust path as needed
+import TrendsScreen from './src/screens/TrendScreen'; // Adjust path as needed
+import LoginScreen from './src/screens/LoginScreen'; // Adjust path as needed
 
 export type RootStackParamList = {
-  navigate(arg0: string): void;
   Home: undefined;
-  Register: undefined;
-  Trends: undefined;
   Listings: undefined;
-  ListingDetail: { listingId: string };
+  Trends: undefined;
+  Login: undefined;
 };
 
-const Tab = createBottomTabNavigator();
+const Stack = createStackNavigator<RootStackParamList>();
 
-function App() {
-  return (
-    <NavigationContainer>
-      <Tab.Navigator
-        screenOptions={({ route }) => ({
-          tabBarIcon: ({ focused, color, size }) => {
-            let iconName;
-
-            if (route.name === 'Home') {
-              iconName = focused ? 'home' : 'home-outline';
-            } else if (route.name === 'Register') {
-              iconName = focused ? 'account-plus' : 'account-plus-outline';
-            } else if (route.name === 'Trends') {
-              iconName = focused ? 'trending-up' : 'trending-up';
-            } else if (route.name === 'Listings') {
-              iconName = focused ? 'format-list-bulleted' : 'format-list-bulleted-outline';
-            }
-
-            return <Icon source={iconName} size={size} color={color} />;
-          },
-          tabBarActiveTintColor: '#6200ee',
-          tabBarInactiveTintColor: 'gray',
-          tabBarStyle: {
-            height: 60,
-            paddingBottom: 5
-          },
-        })}
-      >
-        <Tab.Screen name="Home" component={HomeScreen} />
-        <Tab.Screen name="Trends" component={TrendsScreen} />
-        <Tab.Screen name="Listings" component={ListingsScreen} />
-      </Tab.Navigator>
-    </NavigationContainer>
-  );
-}
+const App = () => (
+  <NavigationContainer>
+    <Stack.Navigator>
+      <Stack.Screen name="Home" component={HomeScreen} />
+      <Stack.Screen name="Listings" component={ListingsScreen} />
+      <Stack.Screen name="Trends" component={TrendsScreen} />
+      <Stack.Screen name="Login" component={LoginScreen} />
+    </Stack.Navigator>
+  </NavigationContainer>
+);
 
 export default App;
