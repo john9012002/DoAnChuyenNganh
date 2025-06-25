@@ -1,22 +1,21 @@
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
-import { Icon } from 'react-native-paper'; // Sử dụng icon từ react-native-paper
+import { Icon } from 'react-native-paper';
 import HomeScreen from './src/screens/HomeScreen';
-import RegisterScreen from './src/screens/RegisterScreen';
-import SubscribeScreen from './src/screens/SubscribeScreen';
 import ListingsScreen from './src/screens/ListingsScreen';
+import TrendsScreen from './src/screens/TrendScreen';
 
 export type RootStackParamList = {
   navigate(arg0: string): void;
   Home: undefined;
   Register: undefined;
-  Subscribe: undefined;
+  Trends: undefined;
   Listings: undefined;
   ListingDetail: { listingId: string };
 };
 
-const Tab = createBottomTabNavigator<RootStackParamList>();
+const Tab = createBottomTabNavigator();
 
 function App() {
   return (
@@ -30,8 +29,8 @@ function App() {
               iconName = focused ? 'home' : 'home-outline';
             } else if (route.name === 'Register') {
               iconName = focused ? 'account-plus' : 'account-plus-outline';
-            } else if (route.name === 'Subscribe') {
-              iconName = focused ? 'bell' : 'bell-outline';
+            } else if (route.name === 'Trends') {
+              iconName = focused ? 'trending-up' : 'trending-up';
             } else if (route.name === 'Listings') {
               iconName = focused ? 'format-list-bulleted' : 'format-list-bulleted-outline';
             }
@@ -40,12 +39,14 @@ function App() {
           },
           tabBarActiveTintColor: '#6200ee',
           tabBarInactiveTintColor: 'gray',
-          tabBarStyle: { height: 60, paddingBottom: 5 },
+          tabBarStyle: {
+            height: 60,
+            paddingBottom: 5
+          },
         })}
       >
         <Tab.Screen name="Home" component={HomeScreen} />
-        <Tab.Screen name="Register" component={RegisterScreen} />
-        <Tab.Screen name="Subscribe" component={SubscribeScreen} />
+        <Tab.Screen name="Trends" component={TrendsScreen} />
         <Tab.Screen name="Listings" component={ListingsScreen} />
       </Tab.Navigator>
     </NavigationContainer>

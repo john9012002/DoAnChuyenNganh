@@ -1,40 +1,206 @@
-import React from 'react';
-import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
+import React, { useState } from 'react';
+import { View, Text, StyleSheet, TouchableOpacity, Image, Alert } from 'react-native';
 import { useNavigation } from '@react-navigation/native';
-import { Button } from 'react-native-paper';
+import { Button, TextInput } from 'react-native-paper';
 import { RootStackParamList } from '../../App';
 
 const HomeScreen: React.FC = () => {
   const navigation = useNavigation<RootStackParamList>();
+  const [username, setUsername] = useState('');
+  const [password, setPassword] = useState('');
+  const [fullName, setFullName] = useState('');
+  const [email, setEmail] = useState('');
+  const [isLoggedIn, setIsLoggedIn] = useState(false);
+  const [showAuthForm, setShowAuthForm] = useState(false);
+  const [authMode, setAuthMode] = useState<'login' | 'register'>('login');
+
+  const handleLogin = () => {
+    if (username === 'admin' && password === 'password123') {
+      setIsLoggedIn(true);
+      setShowAuthForm(false);
+      navigation.navigate('Listings');
+    } else {
+      Alert.alert('Lỗi', 'Thông tin đăng nhập không hợp lệ');
+    }
+  };
+
+  const handleRegister = () => {
+    if (fullName && email && username && password) {
+      Alert.alert('Thành công', 'Đăng ký thành công! Vui lòng đăng nhập.');
+      setAuthMode('login');
+      setFullName('');
+      setEmail('');
+      setUsername('');
+      setPassword('');
+    } else {
+      Alert.alert('Lỗi', 'Vui lòng điền đầy đủ thông tin.');
+    }
+  };
+
+  const handleLogout = () => {
+    setIsLoggedIn(false);
+    setUsername('');
+    setPassword('');
+    setFullName('');
+    setEmail('');
+    Alert.alert('Thành công', 'Bạn đã đăng xuất thành công', [
+      { text: 'OK' },
+    ]);
+  };
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Welcome to Real Estate Scraper</Text>
-      <Text style={styles.subtitle}>Register or subscribe to get updates</Text>
-      <View style={styles.buttonContainer}>
+      {/* Header với nút Đăng nhập/Đăng xuất */}
+      <View style={styles.header}>
+        <TouchableOpacity
+          style={styles.authButton}
+          onPress={() => {
+            if (isLoggedIn) {
+              handleLogout();
+            } else {
+              setShowAuthForm(true);
+              setAuthMode('login');
+            }
+          }}
+        >
+          <Text style={styles.authButtonText}>
+            {isLoggedIn ? 'Đăng xuất' : 'Đăng nhập'}
+          </Text>
+        </TouchableOpacity>
+      </View>
+
+      {/* Biểu mẫu xác thực (đăng nhập hoặc đăng ký) */}
+      {showAuthForm && !isLoggedIn && (
+        <View style={styles.authContainer}>
+          {authMode === 'login' ? (
+            <>
+              <TextInput
+                label="Tên người dùng"
+                value={username}
+                onChangeText={setUsername}
+                style={styles.input}
+                mode="outlined"
+                outlineColor="#ddd"
+                activeOutlineColor="#6200ee"
+              />
+              <TextInput
+                label="Mật khẩu"
+                value={password}
+                onChangeText={setPassword}
+                style={styles.input}
+                mode="outlined"
+                secureTextEntry
+                outlineColor="#ddd"
+                activeOutlineColor="#6200ee"
+              />
+              <Button
+                mode="contained"
+                onPress={handleLogin}
+                style={styles.signInButton}
+                labelStyle={styles.buttonLabel}
+              >
+                Đăng nhập
+              </Button>
+              <Text
+                style={styles.switchText}
+                onPress={() => {
+                  setAuthMode('register');
+                  setFullName('');
+                  setEmail('');
+                  setUsername('');
+                  setPassword('');
+                }}
+              >
+                Chưa có tài khoản? Đăng ký
+              </Text>
+            </>
+          ) : (
+            <>
+              <TextInput
+                label="Họ tên"
+                value={fullName}
+                onChangeText={setFullName}
+                style={styles.input}
+                mode="outlined"
+                outlineColor="#ddd"
+                activeOutlineColor="#6200ee"
+                autoCapitalize="words"
+              />
+              <TextInput
+                label="Email"
+                value={email}
+                onChangeText={setEmail}
+                style={styles.input}
+                mode="outlined"
+                outlineColor="#ddd"
+                activeOutlineColor="#6200ee"
+                keyboardType="email-address"
+                autoCapitalize="none"
+              />
+              <TextInput
+                label="Tên người dùng"
+                value={username}
+                onChangeText={setUsername}
+                style={styles.input}
+                mode="outlined"
+                outlineColor="#ddd"
+                activeOutlineColor="#6200ee"
+              />
+              <TextInput
+                label="Mật khẩu"
+                value={password}
+                onChangeText={setPassword}
+                style={styles.input}
+                mode="outlined"
+                secureTextEntry
+                outlineColor="#ddd"
+                activeOutlineColor="#6200ee"
+              />
+              <Button
+                mode="contained"
+                onPress={handleRegister}
+                style={styles.signInButton}
+                labelStyle={styles.buttonLabel}
+              >
+                Đăng ký
+              </Button>
+              <Text
+                style={styles.switchText}
+                onPress={() => {
+                  setAuthMode('login');
+                  setFullName('');
+                  setEmail('');
+                  setUsername('');
+                  setPassword('');
+                }}
+              >
+                Đã có tài khoản? Đăng nhập
+              </Text>
+            </>
+          )}
+        </View>
+      )}
+
+      {/* Nội dung chính */}
+      <View style={styles.content}>
+        <Image
+          source={{ uri: '[invalid url, do not cite]' }}
+          style={styles.logo}
+          resizeMode="contain"
+        />
+        <Text style={styles.title}>Chào mừng đến với Real Estate Scraper</Text>
+        <Text style={styles.subtitle}>Khám phá tài sản mơ ước của bạn hôm nay</Text>
+        <View style={styles.decorationLine} />
+        <Text style={styles.description}>
+          Khám phá nhiều danh sách bất động sản, từ những ngôi nhà sang trọng đến các căn hộ giá phải chăng. Đăng ký hoặc đăng nhập để nhận cập nhật độc quyền!
+        </Text>
         <Button
           mode="contained"
-          onPress={() => navigation.navigate('Register')}
-          style={styles.button}
+          onPress={() => navigation.navigate('Trends')}
+          style={styles.trendsButton}
           labelStyle={styles.buttonLabel}
         >
-          Register
-        </Button>
-        <Button
-          mode="contained"
-          onPress={() => navigation.navigate('Subscribe')}
-          style={styles.button}
-          labelStyle={styles.buttonLabel}
-        >
-          Subscribe
-        </Button>
-        <Button
-          mode="contained"
-          onPress={() => navigation.navigate('Listings')}
-          style={styles.button}
-          labelStyle={styles.buttonLabel}
-        >
-          Listings
+          Xem Xu hướng
         </Button>
       </View>
     </View>
@@ -44,38 +210,108 @@ const HomeScreen: React.FC = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#f5f5f5',
+    backgroundColor: '#f0f4f8',
     padding: 20,
   },
-  title: {
-    fontSize: 24,
-    fontWeight: 'bold',
-    color: '#333',
-    textAlign: 'center',
-    marginBottom: 10,
+  header: {
+    flexDirection: 'row',
+    justifyContent: 'flex-end',
+    alignItems: 'center',
+    padding: 10,
+    backgroundColor: 'rgba(98, 0, 238, 0.1)',
+    borderBottomWidth: 1,
+    borderBottomColor: '#ddd',
   },
-  subtitle: {
-    fontSize: 16,
-    color: '#666',
-    textAlign: 'center',
-    marginBottom: 20,
-  },
-  buttonContainer: {
-    flexDirection: 'column',
-    width: '80%',
-    gap: 10, // Khoảng cách giữa các nút
-  },
-  button: {
+  authButton: {
     backgroundColor: '#6200ee',
     paddingVertical: 8,
+    paddingHorizontal: 16,
     borderRadius: 8,
   },
-  buttonLabel: {
-    fontSize: 16,
-    fontWeight: 'bold',
+  authButtonText: {
     color: 'white',
+    fontSize: 14,
+    fontWeight: 'bold',
+  },
+  authContainer: {
+    flexDirection: 'column',
+    alignItems: 'center',
+    gap: 10,
+    padding: 20,
+    backgroundColor: 'white',
+    borderRadius: 8,
+    elevation: 2,
+  },
+  input: {
+    width: '100%',
+    backgroundColor: 'white',
+    marginRight: 8,
+  },
+  signInButton: {
+    backgroundColor: '#6200ee',
+    paddingVertical: 6,
+    borderRadius: 8,
+    width: '100%',
+  },
+  buttonLabel: {
+    fontSize: 14,
+    fontWeight: 'bold',
+    color: '#fff',
+  },
+  switchText: {
+    marginTop: 10,
+    color: '#007bff',
+    fontSize: 14,
+    textDecorationLine: 'underline',
+  },
+  content: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    padding: 20,
+  },
+  logo: {
+    width: 150,
+    height: 150,
+    marginBottom: 20,
+  },
+  title: {
+    fontSize: 28,
+    fontWeight: '800',
+    color: '#2c3e50',
+    textAlign: 'center',
+    marginBottom: 10,
+    textShadowColor: 'rgba(0, 0, 0, 0.1)',
+    textShadowOffset: { width: 1, height: 1 },
+    textShadowRadius: 2,
+  },
+  subtitle: {
+    fontSize: 18,
+    color: '#7f8c8d',
+    textAlign: 'center',
+    marginBottom: 20,
+    fontStyle: 'italic',
+  },
+  decorationLine: {
+    width: '60%',
+    height: 2,
+    backgroundColor: '#6200ea',
+    marginVertical: 20,
+    borderRadius: 1,
+  },
+  description: {
+    fontSize: 16,
+    color: '#34495e',
+    textAlign: 'center',
+    paddingHorizontal: 20,
+    lineHeight: 24,
+  },
+  trendsButton: {
+    marginTop: 20,
+    backgroundColor: '#6200ee',
+    paddingVertical: 6,
+    borderRadius: 8,
+    width: '60%',
   },
 });
 
