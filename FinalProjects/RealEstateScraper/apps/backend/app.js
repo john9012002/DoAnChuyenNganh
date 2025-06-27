@@ -3,6 +3,10 @@ const cors = require('cors');
 const { PythonShell } = require('python-shell');
 const nodemailer = require('nodemailer');
 const mongoose = require('mongoose');
+const bcrypt = require('bcryptjs'); // Thêm bcrypt
+const jwt = require('jsonwebtoken'); // Thêm JWT
+require('dotenv').config(); // Để sử dụng biến môi trường
+
 const app = express();
 
 app.use(cors({ origin: '*' }));
@@ -25,13 +29,14 @@ const connectWithRetry = () => {
     });
 };
 
-// Hàm khởi tạo models sau khi kết nối
+// Hàm khởi tạo models
 const initializeModels = () => {
   const userSchema = new mongoose.Schema({
     email: { type: String, required: true, unique: true },
     password: { type: String, required: true },
     name: { type: String, required: true },
     subscriptions: [{ area: String, type: String }],
+    role: { type: String, default: 'user', enum: ['user', 'admin'] }, // Thêm trường role
   });
 
   const listingSchema = new mongoose.Schema({
@@ -50,22 +55,44 @@ const initializeModels = () => {
 
 connectWithRetry();
 
+// Middleware kiểm tra quyền admin
+const isAdmin = (req, res, next) => {
+  const token = req.headers.authorization?.split(' ')[1];
+  if (!token) return res.status(401).json({ success: false, error: 'No token provided' });
+  try {
+    const decoded = jwt.verify(token, process.env.JWT_SECRET);
+    if (decoded.role !== 'admin') {
+      return res.status(403).json({ success: false, error: 'Admin access required' });
+    }
+    req.user = decoded;
+    next();
+  } catch (err) {
+    res.status(401).json({ success: false, error: 'Invalid token' });
+  }
+};
+
 // Endpoint /api/register
 app.post('/api/register', async (req, res) => {
   try {
     if (!global.User) {
       return res.status(500).json({ success: false, error: 'Model not initialized' });
     }
-    const { email, password, name } = req.body;
+    const { email, password, name, role } = req.body;
     if (!email || !password || !name) {
-      return res.status(400).json({ success: false, error: 'All fields are required' });
+      return res.status(400).json({ success: false, error: 'Email, password, and name are required' });
     }
     const existingUser = await global.User.findOne({ email });
     if (existingUser) {
       return res.status(400).json({ success: false, error: 'Email already registered' });
     }
     const hashedPassword = await bcrypt.hash(password, 10);
-    const newUser = new global.User({ email, password: hashedPassword, name, subscriptions: [] });
+    const newUser = new global.User({
+      email,
+      password: hashedPassword,
+      name,
+      subscriptions: [],
+      role: role || 'user', // Gán role, mặc định là 'user'
+    });
     await newUser.save();
     res.status(201).json({ success: true, message: 'User registered successfully' });
   } catch (error) {
@@ -88,7 +115,13 @@ app.post('/api/login', async (req, res) => {
     if (!user || !(await bcrypt.compare(password, user.password))) {
       return res.status(401).json({ success: false, error: 'Invalid email or password' });
     }
-    res.status(200).json({ success: true, message: 'Login successful', user: { email: user.email, name: user.name } });
+    const token = jwt.sign({ email: user.email, role: user.role }, process.env.JWT_SECRET);
+    res.status(200).json({
+      success: true,
+      message: 'Login successful',
+      user: { email: user.email, name: user.name, role: user.role },
+      token,
+    });
   } catch (error) {
     console.error('Login error:', error.stack || error.message);
     res.status(500).json({ success: false, error: 'Failed to login', details: error.message });
@@ -126,6 +159,27 @@ app.get('/api/listings', async (req, res) => {
   }
 });
 
+// Endpoint /api/listings/:listingId
+app.get('/api/listings/:listingId', async (req, res) => {
+  try {
+    if (!global.Listing) {
+      return res.status(500).json({ success: false, error: 'Model not initialized' });
+    }
+    const { listingId } = req.params;
+    const listing = await global.Listing.findById(listingId);
+    if (!listing) {
+      return res.status(404).json({ success: false, error: 'Listing not found' });
+    }
+    res.status(200).json({
+      success: true,
+      data: [listing],
+    });
+  } catch (error) {
+    console.error('Fetch listing error:', error.stack || error.message);
+    res.status(500).json({ success: false, error: 'Failed to fetch listing', details: error.message });
+  }
+});
+
 // Endpoint /api/scrape
 app.get('/api/scrape', async (req, res) => {
   try {
@@ -151,26 +205,105 @@ app.get('/api/scrape', async (req, res) => {
     res.status(500).json({ success: false, error: 'Failed to scrape data', details: error.message });
   }
 });
-// Trong app.js, thêm endpoint này
-app.get('/api/listings/:listingId', async (req, res) => {
+
+// Endpoint quản lý người dùng (Admin)
+app.get('/api/admin/users', isAdmin, async (req, res) => {
+  try {
+    if (!global.User) {
+      return res.status(500).json({ success: false, error: 'Model not initialized' });
+    }
+    const users = await global.User.find({}, 'email name role subscriptions');
+    res.status(200).json({ success: true, data: users });
+  } catch (error) {
+    console.error('Fetch users error:', error.stack || error.message);
+    res.status(500).json({ success: false, error: 'Failed to fetch users', details: error.message });
+  }
+});
+
+app.delete('/api/admin/users/:id', isAdmin, async (req, res) => {
+  try {
+    if (!global.User) {
+      return res.status(500).json({ success: false, error: 'Model not initialized' });
+    }
+    await global.User.findByIdAndDelete(req.params.id);
+    res.status(200).json({ success: true, message: 'User deleted' });
+  } catch (error) {
+    console.error('Delete user error:', error.stack || error.message);
+    res.status(500).json({ success: false, error: 'Failed to delete user', details: error.message });
+  }
+});
+
+app.put('/api/admin/users/:id', isAdmin, async (req, res) => {
+  try {
+    if (!global.User) {
+      return res.status(500).json({ success: false, error: 'Model not initialized' });
+    }
+    const { email, name, role } = req.body;
+    await global.User.findByIdAndUpdate(req.params.id, { email, name, role });
+    res.status(200).json({ success: true, message: 'User updated' });
+  } catch (error) {
+    console.error('Update user error:', error.stack || error.message);
+    res.status(500).json({ success: false, error: 'Failed to update user', details: error.message });
+  }
+});
+
+// Endpoint quản lý tin bất động sản (Admin)
+app.get('/api/admin/listings', isAdmin, async (req, res) => {
   try {
     if (!global.Listing) {
       return res.status(500).json({ success: false, error: 'Model not initialized' });
     }
-    const { listingId } = req.params;
-    const listing = await global.Listing.findById(listingId);
-    if (!listing) {
-      return res.status(404).json({ success: false, error: 'Listing not found' });
-    }
-    res.status(200).json({
-      success: true,
-      data: [listing], // Trả về mảng để khớp với frontend
-    });
+    const listings = await global.Listing.find();
+    res.status(200).json({ success: true, data: listings });
   } catch (error) {
-    console.error('Fetch listing error:', error.stack || error.message);
-    res.status(500).json({ success: false, error: 'Failed to fetch listing', details: error.message });
+    console.error('Fetch listings error:', error.stack || error.message);
+    res.status(500).json({ success: false, error: 'Failed to fetch listings', details: error.message });
   }
 });
+
+app.post('/api/admin/listings', isAdmin, async (req, res) => {
+  try {
+    if (!global.Listing) {
+      return res.status(500).json({ success: false, error: 'Model not initialized' });
+    }
+    const listing = new global.Listing({
+      ...req.body,
+      _id: new mongoose.Types.ObjectId(),
+    });
+    await listing.save();
+    res.status(201).json({ success: true, message: 'Listing created' });
+  } catch (error) {
+    console.error('Create listing error:', error.stack || error.message);
+    res.status(500).json({ success: false, error: 'Failed to create listing', details: error.message });
+  }
+});
+
+app.put('/api/admin/listings/:id', isAdmin, async (req, res) => {
+  try {
+    if (!global.Listing) {
+      return res.status(500).json({ success: false, error: 'Model not initialized' });
+    }
+    await global.Listing.findByIdAndUpdate(req.params.id, req.body);
+    res.status(200).json({ success: true, message: 'Listing updated' });
+  } catch (error) {
+    console.error('Update listing error:', error.stack || error.message);
+    res.status(500).json({ success: false, error: 'Failed to update listing', details: error.message });
+  }
+});
+
+app.delete('/api/admin/listings/:id', isAdmin, async (req, res) => {
+  try {
+    if (!global.Listing) {
+      return res.status(500).json({ success: false, error: 'Model not initialized' });
+    }
+    await global.Listing.findByIdAndDelete(req.params.id);
+    res.status(200).json({ success: true, message: 'Listing deleted' });
+  } catch (error) {
+    console.error('Delete listing error:', error.stack || error.message);
+    res.status(500).json({ success: false, error: 'Failed to delete listing', details: error.message });
+  }
+});
+
 // Khởi động server
 app.listen(5000, '0.0.0.0', () => {
   console.log('Server running on port 5000');

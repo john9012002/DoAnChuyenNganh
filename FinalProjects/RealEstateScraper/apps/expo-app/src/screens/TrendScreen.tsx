@@ -187,7 +187,7 @@ const TrendsScreen: React.FC = () => {
     return (
       <View style={styles.centerContainer}>
         <ActivityIndicator size="large" color="#6200ee" />
-        <Text style={styles.loadingText}>Đang tải xu hướng từ MongoDB...</Text>
+        <Text style={styles.loadingText}>Đang tải xu hướng...</Text>
       </View>
     );
   }
