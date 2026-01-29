@@ -1,3 +1,6 @@
+
+# Phát triển ứng dụng thu thập và tự điền thông tin các bài rao bán nhà đất
+
 Ứng dụng thu thập và tự động điền thông tin các bài rao bán nhà đất được xây
 dựng nhằm hỗ trợ người dùng, đặc biệt là các cá nhân, tổ chức hoạt động trong lĩnh vực
 môi giới và kinh doanh bất động sản, trong việc cập nhật và quản lý thông tin sản phẩm
@@ -79,3 +82,5 @@ BeautifulSoup hoặc Selenium để thu thập dữ liệu), kết hợp với g
 để hiển thị kết quả.
 Phạm vi đề tài được lựa chọn phù hợp với thời gian thực hiện, năng lực cá nhân
 và nhằm đảm bảo tính khả thi trong quá trình phát triển và hoàn thiện ứng dụng.
+
+
