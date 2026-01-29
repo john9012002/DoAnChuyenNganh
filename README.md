@@ -23,7 +23,9 @@ tiếp cận thị trường và tối ưu hóa quy trình quản lý thông tin
 dùng có kiến thức công nghệ hạn chế. Hệ thống cũng đảm bảo khả năng mở rộng trong
 tương lai, cho phép tích hợp thêm nhiều nguồn dữ liệu và tính năng nâng cao theo nhu
 cầu thực tế.
+
 2.2 Mục đích
+
 Ứng dụng thu thập và tự động điền thông tin các bài rao bán nhà đất được xây
 dựng nhằm giải quyết những bất cập, hạn chế trong quá trình tổng hợp và quản lý dữ
 liệu bất động sản hiện nay. Thực tế cho thấy, việc thu thập thông tin rao bán nhà đất từ
@@ -33,22 +35,29 @@ Thông qua việc nghiên cứu và phát triển ứng dụng, đề tài hư�
 đích cụ thể sau:
 • Tự động hóa quy trình thu thập thông tin rao bán nhà đất từ các nguồn phổ biến
 trên internet, giúp tiết kiệm thời gian và công sức cho người dùng.
+
 • Chuẩn hóa và đồng bộ dữ liệu thu thập được, đảm bảo tính chính xác, thống nhất
 và đầy đủ thông tin trước khi đưa vào hệ thống quản lý hoặc website của đơn vị
 sử dụng.
+
 • Hỗ trợ người dùng tổng hợp, tìm kiếm và quản lý thông tin bất động sản một cách
 dễ dàng, nhanh chóng và hiệu quả hơn so với phương pháp thủ công truyền thống.
+
 • Giảm thiểu tối đa sai sót do nhập liệu thủ công, góp phần nâng cao độ chính xác
 của dữ liệu bất động sản.
+
 • Tăng khả năng tiếp cận nguồn sản phẩm đa dạng, cập nhật nhanh chóng, giúp các
 cá nhân, đơn vị môi giới, doanh nghiệp bất động sản mở rộng nguồn hàng và
 nâng cao năng lực cạnh tranh trên thị trường.
+
 • Tạo nền tảng kỹ thuật cho việc mở rộng hệ thống, cho phép tích hợp thêm nhiều
 nguồn dữ liệu hoặc tính năng nâng cao trong tương lai theo nhu cầu thực tế.
 Với những mục đích trên, ứng dụng không chỉ giúp tối ưu hóa quy trình làm việc
 trong lĩnh vực bất động sản mà còn góp phần nâng cao hiệu quả kinh doanh, tiết kiệm
 chi phí và tạo ra lợi thế cạnh tranh cho người sử dụng.
+
 2.3 Phạm vi
+
 Đề tài “Phát triển ứng dụng thu thập và tự động điền thông tin các bài rao bán
 nhà đất” tập trung nghiên cứu và xây dựng một ứng dụng hỗ trợ thu thập dữ liệu từ các
 nguồn thông tin bất động sản phổ biến trên internet, đồng thời tự động xử lý và điền dữ
@@ -59,13 +68,21 @@ Cụ thể, phạm vi triển khai của đề tài bao gồm:
 như:
 
 • Tiêu đề bài đăng
+
 • Giá bán/giá thuê
+
 • Diện tích
+
 • Địa chỉ/khu vực
+
 • Loại hình bất động sản
+
 • Thông tin mô tả chi tiết
+
 • Hình ảnh minh họa (nếu có)
+
 • Thông tin liên hệ
+
 Phạm vi đề tài chỉ tập trung vào thu thập dữ liệu từ các bài đăng công khai, không
 can thiệp vào dữ liệu nội bộ của các sàn giao dịch hoặc thông tin yêu cầu đăng nhập tài
 khoản riêng.
